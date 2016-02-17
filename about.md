@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /case-study/army/
 ---
 
-About us.
+### Design Research for the Army
