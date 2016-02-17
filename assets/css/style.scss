@@ -1,0 +1,21 @@
+---
+---
+
+@charset "UTF-8";
+// Foundation by ZURB
+// foundation.zurb.com
+// Licensed under MIT Open Source
+
+  @import "foundation/components/grid";
+  @import "foundation/components/block-grid";
+//  @import "foundation/components/breadcrumbs";
+//  @import "foundation/components/buttons";
+//  @import "foundation/components/type";
+  @import "foundation/components/buttons";
+  @import "foundation/components/visibility";
+//  @import "foundation/components/forms";
+  @import "so-company";
+
+
+// This includes all of the foundation global elements that are needed to work with any of the other files.
+@import "foundation/settings";
