@@ -2015,7 +2015,7 @@ html {
         width: 420px; } }
 
 .hero {
-  background: #191919;
+  background: rgba(0, 0, 0, 0.8);
   color: #fff;
   padding: 3em 0;
   font-size: 1.1em; }
@@ -2023,7 +2023,7 @@ html {
     line-height: 1.75em; }
 
 .case-study {
-  padding: 4em 0 0 0;
+  padding: 0;
   opacity: .9;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -2032,24 +2032,39 @@ html {
   transition: all 0.3s ease-in-out; }
   .case-study:hover {
     opacity: 1; }
+  .case-study a {
+    display: block;
+    text-decoration: none; }
   @media only screen {
-    .case-study {
+    .case-study a {
       padding: 18em 0 2em 0; } }
-  .case-study a.button {
+  .case-study .tag {
     text-align: left;
+    padding: 1em;
     background: rgba(0, 0, 0, 0.8);
     color: #fff;
     letter-spacing: 0.05em;
     margin: 0; }
-    .case-study a.button b {
+    .case-study .tag b {
       text-transform: uppercase;
       color: #B5B4B4; }
-    .case-study a.button span {
+    .case-study .tag span {
       text-transform: uppercase;
       display: block; }
   .case-study.human-centered {
-    background: #fff url(/assets/images/postit.jpg) center center no-repeat; }
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background: #fff url(/assets/images/postit.jpg) center center no-repeat;
+    background-size: cover; }
   .case-study.army {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
     background: #fff url(/assets/images/army.jpg) center center no-repeat; }
 
 .about {

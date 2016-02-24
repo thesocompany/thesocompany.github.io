@@ -32,7 +32,7 @@ html {
 
 
 .hero {
-  background: #191919;
+  background: rgba(0,0,0,.8);
   color: #fff;
   padding: 3em 0;
   font-size: 1.1em;
@@ -43,18 +43,27 @@ html {
 
 
 .case-study {
-  padding: 4em 0 0 0;
+  padding: 0;
   opacity: .9;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  &:hover {opacity: 1;}
-  @media #{$small} {padding: 18em 0 2em 0;}
-  a.button {
-    text-align: left;
+  &:hover {
+    opacity: 1;
 
+  }
+  a {
+    display: block;
+    text-decoration: none;
+  }
+  @media #{$small} {
+    a {padding: 18em 0 2em 0;}
+  }
+  .tag {
+    text-align: left;
+    padding: 1em;
     background: rgba(0,0,0,.8);
     color: #fff;
     letter-spacing: 0.05em;
@@ -68,10 +77,21 @@ html {
   }
 
   &.human-centered {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
     background: #fff url(/assets/images/postit.jpg) center center no-repeat;
+    background-size: cover;
   }
 
   &.army {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
     background: #fff url(/assets/images/army.jpg) center center no-repeat;
   }
 
