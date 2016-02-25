@@ -1,0 +1,161 @@
+html {
+  margin: 0; padding: 0;
+  font-size: 17px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.header {
+  h1 {
+    margin: 1.5em auto;
+    text-align: center;
+    a {
+      background: #fff url(/assets/images/logo.png) center center no-repeat;
+      background-size: cover;
+      text-indent: -9999em;
+      font-size: 1px;
+      overflow: hidden;
+      margin: 0 auto;
+      display: block;
+      width: 275px;
+      height: 55px;
+      @media #{$small} {
+        height: 80px;
+        width: 420px;
+      }
+    }
+  }
+}
+
+
+.hero {
+  background: rgba(0,0,0,.8);
+  color: #fff;
+  padding: 3em 0;
+  font-size: 1.1em;
+  p {
+    line-height: 1.75em;
+  }
+}
+
+
+.case-study {
+  padding: 0;
+  opacity: .9;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    opacity: 1;
+
+  }
+  a {
+    display: block;
+    text-decoration: none;
+  }
+  @media #{$small} {
+    a {padding: 18em 0 2em 0;}
+  }
+  .tag {
+    text-align: left;
+    padding: 1em;
+    background: rgba(0,0,0,.8);
+    color: #fff;
+    letter-spacing: 0.05em;
+    margin: 0;
+    b {text-transform: uppercase; color: #B5B4B4;}
+    em {}
+    span {
+      text-transform: uppercase;
+      display: block;
+    }
+  }
+
+  &.human-centered {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background: #fff url(/assets/images/postit.jpg) center center no-repeat;
+    background-size: cover;
+  }
+
+  &.army {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background: #fff url(/assets/images/army.jpg) center center no-repeat;
+  }
+
+}
+
+.about {
+  padding: 2em 0;
+}
+
+.team {
+  img {
+    display: block;
+    width: 100%;
+  }
+}
+
+
+footer {
+  text-transform: uppercase;
+  background: #191919;
+  color: #fff;
+  font-size: 1.2em;
+  padding: 2em 0 4em 0;
+  a {
+    color: #fff;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  a.button {
+    background: #fff;
+    margin: 1em 0;
+    color: #333;
+    font-weight: bold;
+    border: 3px solid #191919;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+      background: none;
+      color: #fff;
+      border: 3px solid #fff;
+    }
+  }
+  .secondary {margin-top: 2em;}
+}
+
+ul.social {
+  margin: .35em 0; padding: 0;
+  font-size: .8em;
+  li {display: inline-block; padding: 0; margin: 0;}
+  a {
+    display: block;
+    text-decoration: none;
+    padding: .5em .5em .5em .5em;
+    &:hover {
+      text-decoration: none;
+      border-bottom: 2px solid #fff;
+    }
+    border-right: 1px solid rgba(255,255,255,.5);
+    &:last-of-type { border-right: none;}
+  }
+}
