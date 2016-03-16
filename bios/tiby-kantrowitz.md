@@ -1,0 +1,1 @@
+Tiby Kantrowitz steered projects at DoubleClick and Razorfish and others. She specializes in complex engagements with many moving parts and lots of uncertainty. An avid historical fencer, she trains in longsword and rapier. Tiby joined The So Company in February.
