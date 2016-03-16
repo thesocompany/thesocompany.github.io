@@ -16,7 +16,7 @@ Marina Martin, CTO Department of Veterans Affairs, FCW.com Interview, Dec. 2014
 </div>
 
 <div class="row">
-<div class="small-12 medium-9 columns" markdown="1">
+<div class="small-12 medium-9 medium-centered columns" markdown="1">
 
 ### The Problem
 VA is looking to provides modern services and products by employing the latest user-centered research findings in their new technology initiatives. They're doing this by adopting the latest commercial technologies in their projects and hiring service providers that understand the needs of the end users. In this case the end user is the Veteran and their family.

@@ -16,7 +16,7 @@ Secretary Bob McDonald, Designing for Veterans: A Toolkit for Human-Centered Des
 </div>
 
 <div class="row">
-<div class="small-12 medium-9 columns" markdown="1">
+<div class="small-12 medium-9 medium-centered columns" markdown="1">
 
 ### The Problem
 Veterans are diverse and have needs that don't always fit outdated archetypical services and care. Many new transformative initiatives require, what Secretary Bob McDonald called, "Veteran-centric" thinking. VA needed a team to help them with this "Veteran Centric" research so it can transform and improve VA's Veteran experience for a variety of products, services, and processes.
