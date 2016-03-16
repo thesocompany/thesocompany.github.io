@@ -138,9 +138,12 @@ nav {
 
 .case-study {
   padding: 0 0 1.25em 0;
-  margin-bottom: 3em;
-  width: 50%;
+
+  @media #{$medium} {
+    width: 50%;
   float: left;
+  margin-bottom: 3em;
+  }
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;

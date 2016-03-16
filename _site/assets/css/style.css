@@ -2210,15 +2210,17 @@ nav {
 
 .case-study {
   padding: 0 0 1.25em 0;
-  margin-bottom: 3em;
-  width: 50%;
-  float: left;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
   opacity: .9; }
+  @media only screen and (min-width: 40.0625em) {
+    .case-study {
+      width: 50%;
+      float: left;
+      margin-bottom: 3em; } }
   .case-study:hover {
     opacity: 1; }
   .case-study:after {
