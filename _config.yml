@@ -9,7 +9,7 @@
 title: The So Company
 email: so@socompany.com
 description: > # this means to ignore newlines until "baseurl:"
-  Description here.
+  A veteran-owned business committed to making government work better.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thesocompany.com" # the base hostname & protocol for your site
 twitter_username: thesocompany
