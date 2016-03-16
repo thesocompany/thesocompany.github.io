@@ -5,3 +5,5 @@ In 2011, after selling his first company to a NASDAQ-traded company, he decided 
 Shaun graduated, with honors, from the University of Chicago and has an MBA from CUNY Baruch, Zicklin School of Business. He's written on a variety of topics involving entrepreneurship, Veterans, and innovation at [Forbes](www.forbes.com/sites/shaunso/).
 
 When Shaun isn't working, he can be found planning his next outdoor adventure or enjoying a fine meal with his family.
+
+http://www.shaun.so

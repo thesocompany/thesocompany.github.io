@@ -1,13 +1,15 @@
 ##### “My priority has been on digital service delivery to Veterans and how we can collaborate more internally and place new technology to provide better and better services to Veterans.” - Marina Martin, CTO Department of Veterans Affairs, FCW.com Interview, Dec. 2014
 
 ##### The Problem
-VA is looking to provides modern services and products by employing the latest user-centered research findings in their new technology initiatives. They're doing this by adopting the latest commercial technologies in their projects and hiring service providers that understand the needs of the end users. In this case the end user is the Veteran and their family.
+VA is looking to provide new services and products by incorporating human centered design research in to their new technology initiatives. Furthermore, this research is fueling new products where service providers must now grasp the complex needs of the end user from not just the beginning, but also throughout the entire product development cycle.
 
-By doing this, you get Vets.gov
+For VA, the end user is the Veteran and the new service is Vets.gov.
 
 ##### The Solution
 
-The So Company creates digital content with writers that are both end-user subject matter experts and functional-specific consultants. For Vets.gov, all of the digital content, written by So Company staff is written by Veterans because it's for Veterans.
+The So Company creates digital content with writers that are both end-user subject matter experts and functional-specific consultants. 
+
+For Vets.gov, the So Company was hired because they wanted a staff of professional digital content writers, who are also Veterans.
 
 Our writers are military family and personnel, Veterans, and disabled Veterans for the Vets.gov content development team.
 
