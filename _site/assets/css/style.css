@@ -2128,6 +2128,19 @@ a {
     .header h1 {
       margin: .5em 0; } }
   .header h1 a {
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    /* Chrome, Safari, Opera */
+    backface-visibility: hidden;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
     background: #fff url(/assets/images/logo.png) center center no-repeat;
     background-size: cover;
     text-indent: -9999em;
@@ -2138,21 +2151,24 @@ a {
     display: block;
     width: 300px;
     height: 50px; }
+    .header h1 a:hover, .header h1 a:active {
+      background: #fff url(/assets/images/logo-hover.png) center center no-repeat;
+      background-size: cover; }
     @media only screen {
       .header h1 a {
         height: 40px;
-        width: 200px;
-        margin: 0 auto;
+        width: 210px;
+        margin: 1em auto;
         padding: 1em 0; } }
     @media only screen and (min-width: 40.0625em) {
       .header h1 a {
         height: 54px;
-        width: 280px;
+        width: 285px;
         margin: 1em 0; } }
     @media only screen and (min-width: 64.0625em) {
       .header h1 a {
         height: 54px;
-        width: 280px; } }
+        width: 285px; } }
 
 nav {
   padding: .7em 1em;
@@ -2160,9 +2176,12 @@ nav {
   nav ul {
     margin: 1em;
     padding: 0;
-    text-align: right;
+    text-align: center;
     text-transform: uppercase;
     letter-spacing: 0.03em; }
+    @media only screen and (min-width: 40.0625em) {
+      nav ul {
+        text-align: right; } }
     nav ul li {
       padding: 0;
       margin: 0;
@@ -2263,22 +2282,38 @@ nav {
     transition: all 0.2s ease-in-out;
     background: #fff url(/assets/images/vetsdotgov.png) center center no-repeat;
     background-size: cover; }
+    .case-study.human-centered .tag {
+      -webkit-transition: all 0.2s ease-in-out;
+      -moz-transition: all 0.2s ease-in-out;
+      -o-transition: all 0.2s ease-in-out;
+      -ms-transition: all 0.2s ease-in-out;
+      transition: all 0.2s ease-in-out; }
     .case-study.human-centered:hover {
       background: #fff url(/assets/images/vetsdotgov.png) center center no-repeat;
       background-size: cover; }
+      .case-study.human-centered:hover .tag {
+        padding: 1em 1em 1em 2em; }
       .case-study.human-centered:hover .tag b {
         color: #bfa2f1; }
   .case-study.vetsdotgov {
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
     background: #fff url(/assets/images/wave.png) top center no-repeat;
     background-size: cover; }
+    .case-study.vetsdotgov .tag {
+      -webkit-transition: all 0.2s ease-in-out;
+      -moz-transition: all 0.2s ease-in-out;
+      -o-transition: all 0.2s ease-in-out;
+      -ms-transition: all 0.2s ease-in-out;
+      transition: all 0.2s ease-in-out; }
     .case-study.vetsdotgov:hover {
       background: #fff url(/assets/images/wave.png) top center no-repeat;
       background-size: cover; }
+      .case-study.vetsdotgov:hover .tag {
+        padding: 1em 1em 1em 2em; }
       .case-study.vetsdotgov:hover .tag b {
         color: #72d5f1; }
 
@@ -2316,11 +2351,11 @@ body#hcd blockquote + p {
     margin-bottom: 2.25em;
     display: block; }
   .about li {
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
     opacity: .9; }
     .about li:hover {
       opacity: 1; }
@@ -2342,8 +2377,15 @@ a.close-reveal-modal {
     display: block;
     width: 100%;
     margin: 0 0 .25em 0;
-    border: 3px solid #444;
+    border: 3px solid #fff;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
     padding: .2em; }
+    .team img:hover {
+      border: 3px solid #444; }
   .team h3 {
     text-transform: uppercase;
     letter-spacing: 0.03em;
