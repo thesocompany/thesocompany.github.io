@@ -2266,6 +2266,8 @@ nav {
     .case-study.human-centered:hover {
       background: #fff url(/assets/images/vetsdotgov.png) center center no-repeat;
       background-size: cover; }
+      .case-study.human-centered:hover .tag b {
+        color: #bfa2f1; }
   .case-study.vetsdotgov {
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
@@ -2274,6 +2276,11 @@ nav {
     transition: all 0.3s ease-in-out;
     background: #fff url(/assets/images/wave.png) top center no-repeat;
     background-size: cover; }
+    .case-study.vetsdotgov:hover {
+      background: #fff url(/assets/images/wave.png) top center no-repeat;
+      background-size: cover; }
+      .case-study.vetsdotgov:hover .tag b {
+        color: #72d5f1; }
 
 .studies {
   display: block;

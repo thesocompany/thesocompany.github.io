@@ -202,6 +202,10 @@ nav {
     &:hover {
       background: #fff url(/assets/images/vetsdotgov.png) center center no-repeat;
       background-size: cover;
+      .tag b {
+        color: lighten(#3B1381, 50);
+      }
+
     }
   }
 
@@ -213,6 +217,14 @@ nav {
     transition: all 0.3s ease-in-out;
     background: #fff url(/assets/images/wave.png) top center no-repeat;
     background-size: cover;
+    &:hover {
+      background: #fff url(/assets/images/wave.png) top center no-repeat;
+      background-size: cover;
+      .tag b {
+        color: lighten(#17B8E6, 20);
+      }
+
+    }
   }
 
 }
