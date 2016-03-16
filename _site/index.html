@@ -11,21 +11,38 @@
 ">
 
   <link rel="stylesheet" href="/assets/css/style.css">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/assets/images/icons/favicon.png" type="image/x-icon">
+  <link rel="apple-touch-icon" href="/assets/images/icons/apple-icon-touch-57-precomposed.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/icons/apple-icon-touch-72-precomposed.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/icons/apple-icon-touch-114-precomposed.png">
+  <link rel="apple-touch-icon" sizes="157x157" href="/assets/images/icons/apple-icon-touch-157-precomposed.png">
+  <link rel='stylesheet' href='/assets/css/style.css?v='>
+
   <link rel="canonical" href="http://thesocompany.com/">
   <link rel="alternate" type="application/rss+xml" title="The So Company" href="http://thesocompany.com/feed.xml">
 </head>
 
 
-  <body>
+  <body id="">
 
     <header class="site-header">
 
-  <div class="wrapper">
-
-    <div class="header">
+<div class="header">
+  <div class="row">
+    <div class="small-12 medium-10 medium-centered columns">
       <div class="row">
-        <div class="small-12 columns">
+        <div class="small-12 medium-6 columns">
           <h1><a class="site-title" href="/">The So Company</a></h1>
+        </div>
+
+        <div class="small-12 medium-6 text-right columns">
+          <nav role="menu">
+            <ul>
+              <li><a href="/hiring/">We&rsquo;re hiring</a></li>
+            </ul>
+          </nav>
         </div>
       </div>
     </div>
@@ -41,35 +58,31 @@
   <div class="hero">
     <div class="row">
       <div class="small-12 medium-10 medium-centered columns">
-        <p><b>Richard Wheeler and Shaun So met in a fox hole.</b> Both joined the military after 9/11. A friendship, paired with their complimentary yet diverse backgrounds, formed the foundation of The So Company ­— a service-disabled veteran-owned small business focused on making government better.</p>
+        <p><b>Shaun So and Richard Wheeler  met in a fox hole.</b> Both joined the military after 9/11. A friendship, paired with their complimentary yet diverse backgrounds, formed the foundation of The So Company ­— a service-disabled veteran-owned small business focused on making government better.</p>
       </div>
     </div>
   </div>
 
-  <div class="case-study human-centered">
-    <a href="case-study/va-design/">
-      <div class="row">
-        <div class="small-12 medium-10 medium-centered columns">
-          <div class="tag">
-            <b>Human Centered Design</b> for
-            <span>The Department of Veterans Affairs</span>
-          </div>
-        </div>
-      </div>
-    </a>
-  </div>
+  <div class="studies">
 
-  <div class="case-study army">
-    <a href="/case-study/army/">
-      <div class="row">
-        <div class="small-12 medium-10 medium-centered columns">
-          <div class="tag">
-            <b>Design Research</b> for
-            <span>The Army</span>
-          </div>
+    <div class="case-study human-centered">
+      <a href="case-study/va-hcd/">
+        <div class="tag">
+          <b>Human Centered Design</b> <i>for</i>
+          <span>The Department of Veterans Affairs</span>
         </div>
-      </div>
-    </a>
+      </a>
+    </div>
+
+    <div class="case-study vetsdotgov">
+      <a href="/case-study/va-vetsdotgov/">
+        <div class="tag">
+          <b>Content Strategy</b> <i>for</i>
+          <span>Vets.gov</span>
+        </div>
+      </a>
+    </div>
+
   </div>
 
   <div class="about">
@@ -77,50 +90,76 @@
       <div class="small-12 medium-10 medium-centered columns">
 
         <h2>Our Team</h2>
-        <p>We’re researchers, writers, designers, business process engineers, and change management experts. We incorporate our business process expertise with interpersonal skills, judgment, and discretion to navigate complex client needs. Get to know us and see how we can help you.</p>
+        <p>We’re researchers, writers, designers, business process engineers, and change management experts. We incorporate our business process expertise with interpersonal skills, judgment, and discretion to navigate complex client needs. <a href="/our-team/">Get to know us and see how we can help you</a>.</p>
 
-        <ul class="small-block-grid-1 large-block-grid-4 team">
+
+        <ul class="small-block-grid-2 large-block-grid-4 team">
 
           <li>
-            <img src="http://placehold.it/350x350">
-            Ric Arthur
+
+            <a href="#" data-reveal-id="shaunModal">
+            <img src="/assets/images/content/shaun.jpg">
+            <h3><span>Shaun</span> So</h3>
+            </a>
+
+            <div id="shaunModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+              <div class="row">
+                <div class="small-12 columns">
+                  <h3 id="modalTitle"><span>Shaun</span> So</h3></h3>
+                </div>
+              </div>
+              <div class="row">
+                <div class="small-9 columns">
+                  <p>Prior to building the So Company, which is his second company, Shaun spent over a decade working for a variety of US federal government agencies: an intelligence analyst for the Joint Staff in the Pentagon; a counterintelligence special agent for a variety of state-side and overseas special mission units; a non-commissioned officer in the US Army Reserves; a US intelligence operations support officer for the Department of Defense.</p>
+
+                  <p>In 2011, after selling his first company to a NASDAQ-traded company, he decided to combine his public sector experience with his recent experiences in innovation to solve hard civic problems. The So Company exists to privide services to organizations at the intersection of private-sector best practices and government change management.</p>
+
+                  <p>Shaun graduated, with honors, from the University of Chicago and has an MBA from CUNY Baruch, Zicklin School of Business. He&rsquo;s written on a variety of topics involving entrepreneurship, Veterans, and innovation at <a href="http://www.forbes.com/sites/shaunso/">Forbes</a>.</p>
+
+                  <p>When Shaun isn&rsquo;t working, he can be found planning his next outdoor adventure or enjoying a fine meal with his family.</p>
+                </div>
+
+                <div class="small-3 columns">
+                  <img src="/assets/images/content/shaun.jpg">
+                </div>
+
+              </div>
+
+              <a class="close-reveal-modal" aria-label="Close">&#215;</a>
+            </div>
+
+
           </li>
 
           <li>
-            <img src="http://placehold.it/350x350">
-            David Daitch
-          </li>
 
-          <li>
-            <img src="http://placehold.it/350x350">
-            Elana Duffy
-          </li>
+            <a href="#" data-reveal-id="richardModal">
+            <img src="/assets/images/content/richard.jpg">
+            <h3><span>Richard</span> Wheeler</h3>
+            </a>
 
-          <li>
-            <img src="http://placehold.it/350x350">
-            Tiby Kantrowitz
-          </li>
+            <div id="richardModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+              <div class="row">
+                <div class="small-12 columns">
+                  <h3 id="modalTitle"><span>Richard</span> Wheeler</h3></h3>
+                </div>
+              </div>
+              <div class="row">
+                <div class="small-9 columns">
+                  <p>Richard Wheeler is a Partner at the So Company and also an artist. He&rsquo;s lectured in UCLA&rsquo;s Department of Design Media Arts and also is a an adjunct faculty member in Art Center College of Design&rsquo;s Media Design. He investigates locations, tools, methods, and cultures of observing, representing, and interacting with the world around us.</p>
 
-          <li>
-            <img src="http://placehold.it/350x350">
-            Kelly Kennedy
-          </li>
+                  <p><a href="http://richardwheeler.com">http://richardwheeler.com</a></p>
+                </div>
+                <div class="small-3 columns">
+                  <img src="/assets/images/content/richard.jpg">
+                </div>
+              </div>
 
-          <li>
-            <img src="http://placehold.it/350x350">
-            Elizabeth Potts
-          </li>
+            <a class="close-reveal-modal" aria-label="Close">&#215;</a>
 
-          <li>
-            <img src="http://placehold.it/350x350">
-            Shaun So
-          </li>
+          </div>
 
-          <li>
-            <img src="http://placehold.it/350x350">
-            Richard Wheeler
           </li>
-
 
         </ul>
 
@@ -139,21 +178,34 @@
 <div class="row">
   <div class="small-12 medium-10 medium-centered columns">
     <p>Sound good? We thought <b>So</b>.</p>
-    <a class="button" href="mailto:info@thesocompany.com">Let&rsquo;s get started.</a>
+    <a class="button" href="mailto:contact@thesocompany.com">Let&rsquo;s get started.</a>
   </div>
 </div>
 
 <div class="row secondary">
   <div class="small-12 medium-10 medium-centered columns">
     <b>New York</b> &amp; <b>Los Angeles</b>
-    <ul class="social">
-      <li><a href="#">LinkedIn</a></li>
-      <li><a href="#">Twitter</a></li>
-    </ul>
+
   </div>
 </div>
 
+
+<!-- Reveal Modals end -->
+
+<script src="/assets/js/vendor/jquery.js"></script>
+<script src="/assets/js/foundation/foundation.js"></script>
+<script src="/assets/js/foundation/foundation.reveal.js"></script>
+<!-- Other JS plugins can be included here -->
+
+<script>
+  $(document).foundation();
+</script>
+
+
 </footer>
+
+
+
 
 
   </body>

@@ -8,68 +8,180 @@ html {
   transition: all 0.3s ease-in-out;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #444;
+}
+
+a {
+  color: #444;
+  text-decoration: none;
+  border-bottom: 1px solid #777;
+}
+
 .header {
   h1 {
-    margin: 1.5em auto;
+    margin: 0;
     text-align: center;
+      @media #{$medium} {
+        margin: .5em 0;
+      }
     a {
       background: #fff url(/assets/images/logo.png) center center no-repeat;
       background-size: cover;
       text-indent: -9999em;
       font-size: 1px;
       overflow: hidden;
-      margin: 0 auto;
+      border-bottom: none;
+      margin: 1em 0;
       display: block;
-      width: 275px;
-      height: 55px;
+      width: 300px;
+      height: 50px;
       @media #{$small} {
-        height: 80px;
-        width: 420px;
+        height: 40px;
+        width: 200px;
+        margin: 0 auto;
+        padding: 1em 0;
+      }
+      @media #{$medium} {
+        height: 54px;
+        width: 280px;
+        margin: 1em 0;
+      }
+
+      @media #{$large} {
+        height: 54px;
+        width: 280px;
       }
     }
   }
 }
 
+.wrapper {
+
+}
+
+nav {
+  //position: fixed;
+  //z-index: 1000;
+  //background: rgba(0,0,0,.85);
+  //top: 0;
+  padding: .7em 1em;
+  width: 100%;
+  ul {
+    margin: 1em;
+    padding: 0;
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    li {
+      padding: 0;
+      margin: 0;
+      display: inline-block;
+      text-align: right;
+      a {
+        display: block;
+        color: #333;
+        border-bottom: none;
+        border: 2px solid #fff;
+        text-decoration: none;
+        padding: .25em 1em;
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        -ms-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+        &:hover {
+        border: 2px solid #ccc;
+        }
+      }
+    }
+  }
+}
+
+.page-content {
+  padding: 0 0 2em 0;
+}
+
+
+
 
 .hero {
-  background: rgba(0,0,0,.8);
+  background: rgba(0,0,0,.85);
   color: #fff;
-  padding: 3em 0;
+  padding: 4.5em 0;
   font-size: 1.1em;
+  h2 {color: #fff; text-align: center;}
   p {
     line-height: 1.75em;
   }
+  b {
+    display: block;
+    padding: 0 0 1em 0;
+    font-weight: normal;
+    font-weight: 600;
+  }
+
+  &#content-strategy {
+    background: rgba(0,0,0,.85) url(/assets/images/wave.png) top center no-repeat;
+    background-size: cover;
+  }
+
+  &#hcd {
+    background: rgba(0,0,0,.85) url(/assets/images/vetsdotgov.png) center center no-repeat;
+    background-size: cover;
+  }
+
 }
 
 
 .case-study {
-  padding: 0;
-  opacity: .9;
+  padding: 0 0 1.25em 0;
+  margin-bottom: 3em;
+  width: 50%;
+  float: left;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  opacity: .9;
   &:hover {
     opacity: 1;
-
   }
+
+  &:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+
   a {
     display: block;
     text-decoration: none;
+    border-bottom: none;
+    &:hover {
+      cursor: pointer;
+    }
   }
   @media #{$small} {
-    a {padding: 18em 0 2em 0;}
+    a {padding: 12em 0 0 0;}
   }
   .tag {
     text-align: left;
     padding: 1em;
-    background: rgba(0,0,0,.8);
+    background: rgba(0,0,0,.85);
     color: #fff;
+    display: inline-block;
     letter-spacing: 0.05em;
     margin: 0;
+
     b {text-transform: uppercase; color: #B5B4B4;}
-    em {}
+    em {font-weight: 100;}
     span {
       text-transform: uppercase;
       display: block;
@@ -77,46 +189,133 @@ html {
   }
 
   &.human-centered {
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    background: #fff url(/assets/images/vetsdotgov.png) center center no-repeat;
+    background-size: cover;
+    &:hover {
+      background: #fff url(/assets/images/vetsdotgov.png) center center no-repeat;
+      background-size: cover;
+    }
+  }
+
+  &.vetsdotgov {
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    background: #fff url(/assets/images/postit.jpg) center center no-repeat;
+    background: #fff url(/assets/images/wave.png) top center no-repeat;
     background-size: cover;
   }
 
-  &.army {
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    background: #fff url(/assets/images/army.jpg) center center no-repeat;
-  }
-
 }
+
+.studies {
+  display: block;
+  clear: both;
+  &:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+}
+
+blockquote {
+  border-left: 3px solid #ccc;
+  margin: 0 0 2em 0;
+  padding: 0 0 0 2em;
+  font-size: 1.55em;
+  color: #454545;
+}
+
+blockquote+p {
+  color: #444;
+  margin-bottom: 3em;
+}
+
+body#content-strategy blockquote+p {
+  color: #107FC5;
+}
+
 
 .about {
   padding: 2em 0;
+
+    p {
+      margin-bottom: 2.25em;
+      display: block;
+    }
+
+
+    li {
+      -webkit-transition: all 0.3s ease-in-out;
+      -moz-transition: all 0.3s ease-in-out;
+      -o-transition: all 0.3s ease-in-out;
+      -ms-transition: all 0.3s ease-in-out;
+      transition: all 0.3s ease-in-out;
+      opacity: .9;
+      &:hover {
+        opacity: 1;
+      }
+
+      h2#modalTitle, h3#modalTitle {
+        margin: 0; padding: 0; line-height: 1em;
+        border: 1px solid red;
+      }
+    }
 }
 
+.reveal-modal img {
+  margin-top: 1em;
+}
+
+a.close-reveal-modal {border-bottom: none;}
+
 .team {
+  line-height: 1.2em;
   img {
     display: block;
     width: 100%;
+    margin: 0 0 .25em 0;
+    border: 3px solid #444;
+    padding: .2em;
   }
+  h3 {
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    font-weight: normal;
+    span {
+      font-weight: bold;
+    }
+  }
+
+  b {display: block;}
+
 }
 
+
+h3#modalTitle {
+  margin: 0; padding: 0;
+  line-height: 1em;
+}
 
 footer {
   text-transform: uppercase;
   background: #191919;
+  border-bottom: 14px solid #777;
   color: #fff;
   font-size: 1.2em;
   padding: 2em 0 4em 0;
   a {
     color: #fff;
+    border-bottom: none;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;

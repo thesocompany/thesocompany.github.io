@@ -1986,6 +1986,121 @@ th.hide-for-touch {
 
   th.show-for-print {
     display: table-cell !important; } }
+.reveal-modal-bg {
+  background: #000000;
+  background: rgba(0, 0, 0, 0.45);
+  bottom: 0;
+  display: none;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1004;
+  left: 0; }
+
+.reveal-modal {
+  border-radius: 3px;
+  display: none;
+  position: absolute;
+  top: 0;
+  visibility: hidden;
+  width: 100%;
+  z-index: 1005;
+  left: 0;
+  background-color: #FFFFFF;
+  padding: 1.875rem;
+  border: solid 1px #666666;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); }
+  @media only screen and (max-width: 40em) {
+    .reveal-modal {
+      min-height: 100vh; } }
+  .reveal-modal .column, .reveal-modal .columns {
+    min-width: 0; }
+  .reveal-modal > :first-child {
+    margin-top: 0; }
+  .reveal-modal > :last-child {
+    margin-bottom: 0; }
+  @media only screen and (min-width: 40.0625em) {
+    .reveal-modal {
+      left: 0;
+      margin: 0 auto;
+      max-width: 62.5rem;
+      right: 0;
+      width: 80%; } }
+  @media only screen and (min-width: 40.0625em) {
+    .reveal-modal {
+      top: 6.25rem; } }
+  .reveal-modal.radius {
+    box-shadow: none;
+    border-radius: 3px; }
+  .reveal-modal.round {
+    box-shadow: none;
+    border-radius: 1000px; }
+  .reveal-modal.collapse {
+    padding: 0;
+    box-shadow: none; }
+  @media only screen and (min-width: 40.0625em) {
+    .reveal-modal.tiny {
+      left: 0;
+      margin: 0 auto;
+      max-width: 62.5rem;
+      right: 0;
+      width: 30%; } }
+  @media only screen and (min-width: 40.0625em) {
+    .reveal-modal.small {
+      left: 0;
+      margin: 0 auto;
+      max-width: 62.5rem;
+      right: 0;
+      width: 40%; } }
+  @media only screen and (min-width: 40.0625em) {
+    .reveal-modal.medium {
+      left: 0;
+      margin: 0 auto;
+      max-width: 62.5rem;
+      right: 0;
+      width: 60%; } }
+  @media only screen and (min-width: 40.0625em) {
+    .reveal-modal.large {
+      left: 0;
+      margin: 0 auto;
+      max-width: 62.5rem;
+      right: 0;
+      width: 70%; } }
+  @media only screen and (min-width: 40.0625em) {
+    .reveal-modal.xlarge {
+      left: 0;
+      margin: 0 auto;
+      max-width: 62.5rem;
+      right: 0;
+      width: 95%; } }
+  .reveal-modal.full {
+    height: 100vh;
+    height: 100%;
+    left: 0;
+    margin-left: 0 !important;
+    max-width: none !important;
+    min-height: 100vh;
+    top: 0; }
+    @media only screen and (min-width: 40.0625em) {
+      .reveal-modal.full {
+        left: 0;
+        margin: 0 auto;
+        max-width: 62.5rem;
+        right: 0;
+        width: 100%; } }
+  .reveal-modal.toback {
+    z-index: 1003; }
+  .reveal-modal .close-reveal-modal {
+    color: #AAAAAA;
+    cursor: pointer;
+    font-size: 2.5rem;
+    font-weight: bold;
+    line-height: 1;
+    position: absolute;
+    top: 0.625rem;
+    right: 1.375rem; }
+
 html {
   margin: 0;
   padding: 0;
@@ -1996,92 +2111,251 @@ html {
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
 
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #444; }
+
+a {
+  color: #444;
+  text-decoration: none;
+  border-bottom: 1px solid #777; }
+
 .header h1 {
-  margin: 1.5em auto;
+  margin: 0;
   text-align: center; }
+  @media only screen and (min-width: 40.0625em) {
+    .header h1 {
+      margin: .5em 0; } }
   .header h1 a {
     background: #fff url(/assets/images/logo.png) center center no-repeat;
     background-size: cover;
     text-indent: -9999em;
     font-size: 1px;
     overflow: hidden;
-    margin: 0 auto;
+    border-bottom: none;
+    margin: 1em 0;
     display: block;
-    width: 275px;
-    height: 55px; }
+    width: 300px;
+    height: 50px; }
     @media only screen {
       .header h1 a {
-        height: 80px;
-        width: 420px; } }
+        height: 40px;
+        width: 200px;
+        margin: 0 auto;
+        padding: 1em 0; } }
+    @media only screen and (min-width: 40.0625em) {
+      .header h1 a {
+        height: 54px;
+        width: 280px;
+        margin: 1em 0; } }
+    @media only screen and (min-width: 64.0625em) {
+      .header h1 a {
+        height: 54px;
+        width: 280px; } }
+
+nav {
+  padding: .7em 1em;
+  width: 100%; }
+  nav ul {
+    margin: 1em;
+    padding: 0;
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: 0.03em; }
+    nav ul li {
+      padding: 0;
+      margin: 0;
+      display: inline-block;
+      text-align: right; }
+      nav ul li a {
+        display: block;
+        color: #333;
+        border-bottom: none;
+        border: 2px solid #fff;
+        text-decoration: none;
+        padding: .25em 1em;
+        -webkit-transition: all 0.3s ease-in-out;
+        -moz-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        -ms-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out; }
+        nav ul li a:hover {
+          border: 2px solid #ccc; }
+
+.page-content {
+  padding: 0 0 2em 0; }
 
 .hero {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.85);
   color: #fff;
-  padding: 3em 0;
+  padding: 4.5em 0;
   font-size: 1.1em; }
+  .hero h2 {
+    color: #fff;
+    text-align: center; }
   .hero p {
     line-height: 1.75em; }
+  .hero b {
+    display: block;
+    padding: 0 0 1em 0;
+    font-weight: normal;
+    font-weight: 600; }
+  .hero#content-strategy {
+    background: rgba(0, 0, 0, 0.85) url(/assets/images/wave.png) top center no-repeat;
+    background-size: cover; }
+  .hero#hcd {
+    background: rgba(0, 0, 0, 0.85) url(/assets/images/vetsdotgov.png) center center no-repeat;
+    background-size: cover; }
 
 .case-study {
-  padding: 0;
-  opacity: .9;
+  padding: 0 0 1.25em 0;
+  margin-bottom: 3em;
+  width: 50%;
+  float: left;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out; }
+  transition: all 0.3s ease-in-out;
+  opacity: .9; }
   .case-study:hover {
     opacity: 1; }
+  .case-study:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0; }
   .case-study a {
     display: block;
-    text-decoration: none; }
+    text-decoration: none;
+    border-bottom: none; }
+    .case-study a:hover {
+      cursor: pointer; }
   @media only screen {
     .case-study a {
-      padding: 18em 0 2em 0; } }
+      padding: 12em 0 0 0; } }
   .case-study .tag {
     text-align: left;
     padding: 1em;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.85);
     color: #fff;
+    display: inline-block;
     letter-spacing: 0.05em;
     margin: 0; }
     .case-study .tag b {
       text-transform: uppercase;
       color: #B5B4B4; }
+    .case-study .tag em {
+      font-weight: 100; }
     .case-study .tag span {
       text-transform: uppercase;
       display: block; }
   .case-study.human-centered {
-    -webkit-transition: all 0.3s ease-in-out;
-    -moz-transition: all 0.3s ease-in-out;
-    -o-transition: all 0.3s ease-in-out;
-    -ms-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
-    background: #fff url(/assets/images/postit.jpg) center center no-repeat;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    background: #fff url(/assets/images/vetsdotgov.png) center center no-repeat;
     background-size: cover; }
-  .case-study.army {
+    .case-study.human-centered:hover {
+      background: #fff url(/assets/images/vetsdotgov.png) center center no-repeat;
+      background-size: cover; }
+  .case-study.vetsdotgov {
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     -ms-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    background: #fff url(/assets/images/army.jpg) center center no-repeat; }
+    background: #fff url(/assets/images/wave.png) top center no-repeat;
+    background-size: cover; }
+
+.studies {
+  display: block;
+  clear: both; }
+  .studies:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0; }
+
+blockquote {
+  border-left: 3px solid #ccc;
+  margin: 0 0 2em 0;
+  padding: 0 0 0 2em;
+  font-size: 1.55em;
+  color: #454545; }
+
+blockquote + p {
+  color: #444;
+  margin-bottom: 3em; }
+
+body#content-strategy blockquote + p {
+  color: #107FC5; }
 
 .about {
   padding: 2em 0; }
+  .about p {
+    margin-bottom: 2.25em;
+    display: block; }
+  .about li {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    opacity: .9; }
+    .about li:hover {
+      opacity: 1; }
+    .about li h2#modalTitle, .about li h3#modalTitle {
+      margin: 0;
+      padding: 0;
+      line-height: 1em;
+      border: 1px solid red; }
 
-.team img {
-  display: block;
-  width: 100%; }
+.reveal-modal img {
+  margin-top: 1em; }
+
+a.close-reveal-modal {
+  border-bottom: none; }
+
+.team {
+  line-height: 1.2em; }
+  .team img {
+    display: block;
+    width: 100%;
+    margin: 0 0 .25em 0;
+    border: 3px solid #444;
+    padding: .2em; }
+  .team h3 {
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    font-weight: normal; }
+    .team h3 span {
+      font-weight: bold; }
+  .team b {
+    display: block; }
+
+h3#modalTitle {
+  margin: 0;
+  padding: 0;
+  line-height: 1em; }
 
 footer {
   text-transform: uppercase;
   background: #191919;
+  border-bottom: 14px solid #777;
   color: #fff;
   font-size: 1.2em;
   padding: 2em 0 4em 0; }
   footer a {
     color: #fff;
+    border-bottom: none;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
