@@ -359,8 +359,11 @@ a.close-reveal-modal {border-bottom: none;}
     text-transform: uppercase;
     letter-spacing: 0.03em;
     font-weight: normal;
+    font-size: 1.1em;
+    margin: 0; padding: 0;
     span {
       font-weight: bold;
+      display: block;
     }
   }
 

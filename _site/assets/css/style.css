@@ -2389,9 +2389,13 @@ a.close-reveal-modal {
   .team h3 {
     text-transform: uppercase;
     letter-spacing: 0.03em;
-    font-weight: normal; }
+    font-weight: normal;
+    font-size: 1.1em;
+    margin: 0;
+    padding: 0; }
     .team h3 span {
-      font-weight: bold; }
+      font-weight: bold;
+      display: block; }
   .team b {
     display: block; }
 
