@@ -19,11 +19,11 @@ Full time to start Immediately
 
 We are looking for a senior digital content writer to work with the Content Strategy team at the Veterans Experience Office at the US Department of Veterans Affairs. Candidate will be responsible for writing new content for the newly released Vets.gov website.
 
-The work is full time at 40 hours per week - to start immediately.
+The work is full time at 40 hours per week.
 
-Candidate will ideally have significant writing and/or editing experience, preferably on digital website platforms like blogs or online media outlets.
+The ideal candidate will have significant writing and/or editing experience, preferably on digital website platforms like blogs or online media outlets.
 
-Candidate is comfortable with agile development tools like Pivotal Tracker or JIRA and open source development platforms like Github. No coding is required, however, candidate must be comfortable with content written in an open and agile web development environment.
+Candidate is comfortable with agile development tools like Pivotal Tracker and open source development platforms like Github. No coding is required, however, candidate must be comfortable with content written in an open and agile web development environment.
 
 - Work can be remote but minimal travel may be required to Washington DC.
 - Veterans and Veteran community members are preferred.
