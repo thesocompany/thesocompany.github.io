@@ -6,4 +6,4 @@ Shaun graduated, with honors, from the University of Chicago and has an MBA from
 
 When Shaun isn't working, he can be found planning his next outdoor adventure or enjoying a fine meal with his family.
 
-http://www.shaun.so
+[http://www.shaun.so](http://www.shaun.so)
