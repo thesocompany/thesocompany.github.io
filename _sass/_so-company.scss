@@ -20,7 +20,11 @@ a {
   border-bottom: 1px solid #777;
 }
 
-.header {
+header {
+  margin: .75em 0 .75em 0;
+  padding: 0 0 .7em 0;
+  @media #{$small} {margin: .75em 0 0 0; padding: 0 0 .75em 0;}
+  @media #{$medium} {margin: 0; padding: 0;}
   h1 {
     margin: 0;
     text-align: center;
@@ -127,10 +131,19 @@ nav {
 
 
 .hero {
+  @media #{$small} {
+    text-align: center;
+    padding: .25em 0;
+    font-size: 1em;
+  }
+  @media #{$medium} {
+    padding: 4.5em 0;
+    text-align: left;
+    font-size: 1.1em;
+  }
   background: rgba(0,0,0,.85);
   color: #fff;
-  padding: 4.5em 0;
-  font-size: 1.1em;
+
   h2 {color: #fff; text-align: center;}
   p {
     line-height: 1.75em;
@@ -272,6 +285,7 @@ nav {
 .studies {
   display: block;
   clear: both;
+
   &:after {
      visibility: hidden;
      display: block;
@@ -286,7 +300,10 @@ blockquote {
   border-left: 3px solid #ccc;
   margin: 0 0 2em 0;
   padding: 0 0 0 2em;
-  font-size: 1.55em;
+  font-size: 1em;
+  @media #{$small} {font-size: 1em;}
+  @media #{$medium} {font-size: 1.55em;}
+
   color: #454545;
 }
 
@@ -306,7 +323,14 @@ body#hcd blockquote+p {
 
 
 .about {
-  padding: 2em 0;
+  @media #{$small} {
+    padding: .25em 0;
+  }
+
+  @media #{$medium} {
+    padding: 2em 0;
+  }
+
 
     p {
       margin-bottom: 2.25em;
@@ -383,7 +407,14 @@ footer {
   border-bottom: 14px solid #777;
   color: #fff;
   font-size: 1.2em;
-  padding: 2em 0 4em 0;
+  @media #{$small} {
+    padding: .25em 0;
+  }
+
+  @media #{$medium} {
+    padding: 2em 0 4em 0;
+  }
+
   a {
     color: #fff;
     border-bottom: none;
@@ -411,6 +442,24 @@ footer {
     }
   }
   .secondary {margin-top: 2em;}
+
+  nav {
+    margin: 0;
+    text-align: left;
+    ul {
+      margin: 0; padding :0;
+      text-align: left;
+      li a {
+        margin: 0; padding: 0;
+        color: #fff;
+      border: none;
+      &:hover {
+      border: none;
+      }
+    }
+    }
+  }
+
 }
 
 ul.social {
