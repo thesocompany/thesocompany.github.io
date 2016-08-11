@@ -16,7 +16,8 @@ published: true
 
 - “Open-source kindness” means using data to help people in altruistic ways, such as helping the homeless find shelter, matching low-income people with mental-health resources or enabling parents to find free child-care programs, reports GovEx. 
 
-- The governor of Alaska hopes to use risk-assessment data analytics to determine whom should be released from prison, reports StateScoop.  
+- The governor of Alaska hopes to use risk-assessment data analytics to determine whom should be released from prison, reports StateScoop.
+
 ## Open Government:
 - Cloud-data company Socrata is shifting from working with all governments to just large governments to try to make itself profitable, and laid off 19 people in the process, reports GeekWire.
 
@@ -43,6 +44,7 @@ published: true
 - Scientists are using “animal selfies” (they’re better at it than humans are) to determine the biodiversity of ecosystems, reports PLOS. Open data then allows researchers to determine how best to protect those environments. 
 
 - George Orwell believed plain language—and also language that is not “ugly”--could also help politics, and he offered tips on how to avoid tired metaphors, verbal false limbs and pretentious diction. Also, he hated “utilize.” 
+
 ## Vet Love:
 - Vets are protesting “Orange is the New Black” after the show depicted recently returned combat Vets as inhumane guards in the series, reports The Christian Science Monitor. 
 
