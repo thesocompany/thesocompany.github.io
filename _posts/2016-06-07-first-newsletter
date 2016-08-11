@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  Dispatch 06-06-2016
-date:   2016-06-06 15:51:15 -0500
+title:  Dispatch 06-07-2016
+date:   2016-06-07 15:51:15 -0500
 categories: updates
 published: true
 ---
 
-RAW TEXT - Needs to go in template.
+<div class="row">
+<div class="small-12 medium-11 medium-centered columns" markdown="1">
 
 ## Open Data:
 
@@ -62,4 +63,6 @@ RAW TEXT - Needs to go in template.
 
 - The Center for Plain Language, which also sponsors the ClearMark Awards for plain-written language. @plain_language
 
+</div>
+</div>
 
