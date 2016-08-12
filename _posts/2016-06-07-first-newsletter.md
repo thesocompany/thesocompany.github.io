@@ -9,7 +9,7 @@ published: true
 <div class="row">
 <div class="small-12 medium-11 medium-centered columns" markdown="1">
 
-## Open Data:
+### Open Data:
 
 - Sen. Mark Warner, D-Virginia, says he’s working on an inventory of government agencies to make sure the Digital Accountability and Transparency Act doesn’t get lost during the election, [reports](http://federalnewsradio.com/open-datatransparency/2016/05/warner-cautiously-optimistic-data-act-rollout/) Federal News Radio. He’s been sending notes to agencies asking for progress reports. Warner says it’s good for entrepreneurs. 
 
@@ -49,13 +49,13 @@ published: true
 
 - An open-data initiative has led to the discovery of genetic variants connected to breast and ovarian cancer one year after the initiative was begun, [reports](http://www.prnewswire.com/news-releases/one-year-after-launch-brca-share-open-data-initiative-reveals-new-findings-on-brca-gene-mutations-linked-to-hereditary-breast-and-ovarian-cancer-risk-300277710.html) PR NewsWire.
 
-## Plain Language:
+### Plain Language:
 
-### Case studies:
+#### Case studies:
 
 - In 2010, the IRS realized that one-quarter of people being audited didn't realize they were being audited because the letters IRS sent out confused them. Most people did not know the meaning of the word “levy.” The IRS decided to [rewrite all of their letters](https://www.americanprogress.org/issues/general/news/2011/05/16/9588/irs-aims-for-letter-perfect-language/). Then, they created a [new office](http://www.visualwebcaster.com/IRS/73366/bios/Patterson.html) to do just that. 
 
-## Organizations, websites and twitter accounts of interest:
+### Organizations, websites and twitter accounts of interest:
 
 - The [Open Data Institute](http://theodi.org/) provides evidence about how open data is doing, online and in-person courses, events and networking. They’re British. [@ODIHQ](https://twitter.com/ODIHQ)
 
