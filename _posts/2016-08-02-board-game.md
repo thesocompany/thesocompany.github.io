@@ -10,7 +10,7 @@ published: true
 
 ###  Open Data:
 
-- There’s a new board game about open data, [reports the Open Data Institute](http://www.opendata.institute/news/you-can-now-buy-your-own-copy-of-datopolis-the-open-data-board-game). No really. Now you and your family can geek out on building services, apps and websites in Sheridan, *“which is gradually declining as shops close, teachers quit, hedgehogs go extinct and pollution rises.”*
+- There’s a new board game about open data, [reports the Open Data Institute](http://www.opendata.institute/news/you-can-now-buy-your-own-copy-of-datopolis-the-open-data-board-game). No really. Now you and your family can geek out on building services, apps and websites in Sheridan, “which is gradually declining as shops close, teachers quit, hedgehogs go extinct and pollution rises.”
 
 - In the meantime, New York City is working through how to make public records easier to access, [reports Statescoop.com](http://statescoop.com/a-year-after-a-policy-update-nyc-grapples-with-the-next-level-of-open-data).
 
@@ -40,7 +40,7 @@ published: true
 ###  Tech Contracts:
 - Booz-Allen has been awarded a contract to provide Navy IT support, [reports C4ISRNet](http://www.c4isrnet.com/story/military-tech/cyber/2016/08/01/booz-allen-navy-it-cyber/87926276/).
 
-- Because so few people are trained for tech jobs in the government, a former White House CTO says *“it’s easier than ever to get engaged in government without dedicating a decade of work to civic engagement. Techies can opt in and out of several initiatives,”* [reports CRN.com](http://www.crn.com/news/channel-programs/video/300081533/u-s-government-challenged-by-techie-talent-gap.htm).
+- Because so few people are trained for tech jobs in the government, a former White House CTO says “it’s easier than ever to get engaged in government without dedicating a decade of work to civic engagement. Techies can opt in and out of several initiatives,” [reports CRN.com](http://www.crn.com/news/channel-programs/video/300081533/u-s-government-challenged-by-techie-talent-gap.htm).
 
 ###  Tech Politics:
 
