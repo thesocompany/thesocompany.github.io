@@ -17,3 +17,6 @@ github_username:  thesocompany
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-seo-tag
