@@ -5,12 +5,15 @@ permalink: /updates/
 ---
 
 <div class="row">
-<div class="small-12 medium-11 medium-centered columns" markdown="1">
+<div class="small-12 medium-centered columns" markdown="1">
 
 <ul class="posts">
 
     {% for post in site.posts %}
-        <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    <li>
+			<h4><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h4>
+    		<i>{{ post.excerpt }}</i>
+    </li>
     {% endfor %}
     
 </ul> 
