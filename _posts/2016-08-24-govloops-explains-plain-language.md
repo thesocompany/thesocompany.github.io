@@ -58,8 +58,8 @@ and hasn't, in some cases, for 17 years.
 violate rules can protect citizens, but when Justice looked at data from
 several departments, no one was tracking what happened after those early
 interventions, [reports The Washington Post](https://www.washingtonpost.com/investigations/can-big-data-stop-bad-cops/2016/08/21/12db0728-3fb6-11e6-a66f-aa6c1883b6b1_story.html?utm_campaign=3DMilitary%20EBB%208-22-16&utm_medium=3Demail&utm_source=3DSailthru).
-Officials wonder if big data could help the departments=E2=80=94and the
-country=E2=80=94better track and protect.
+Officials wonder if big data could help the departments - and the
+country - better track and protect.
 
 ### Open Government:
 
