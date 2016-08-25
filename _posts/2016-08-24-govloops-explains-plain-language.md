@@ -17,7 +17,7 @@ published: true
 
 - [Plainlanguage.gov](http://www.plainlanguage.gov/plLaw/fedGovt/index.cfm)
 has a list of every government agency's plain-language webpage, as well as
-the designated senior official. [Veterans Affairs is here](http://www.va.gov/opa/Plain_Language.asp).
+the designated senior official. [Veterans Affairs' is here](http://www.va.gov/opa/Plain_Language.asp).
 
 - Lawyers - who may be guilty of some, well, lawyer-speak - have addressed the
 issue of bad fonts (and, gasp!, two periods after sentences) in
@@ -66,7 +66,7 @@ country - better track and protect.
 - Providing citizens with data from the government can mean the government
 ends up with better programs and systems, [reports Ideas.ted.com](http://ideas.ted.com/how-open-government-data-creates-smarter-societies/). But it also allows people to make smart decisions about things like health care and renting an apartment.
 
-- [The General Services Administration is hosting a session](http://us9.campaign-archive2.com/?u=3D6f1977de9eff4c384dc8d6527&id=3Ddd5d1b8d4a&e=3Ddd8a98a197)
+- [The General Services Administration is hosting a session](http://us9.campaign-archive2.com/?u=6f1977de9eff4c384dc8d6527&id=dd5d1b8d4a&e=dd8a98a197)
 at 9 a.m. Sept. 8 to help people better understand how the Technology Transformation Service buys, builds and shares federal-government technology.
 
 ### Tech/Writing Contracts:
