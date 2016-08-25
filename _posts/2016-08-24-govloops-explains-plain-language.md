@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Test - Dispatch 08-24-2016
+title:  Govloops explains plain language - Dispatch 08-24-2016
 date:   2016-08-24 15:51:15 -0500
 categories: updates
-description: "Test."
-excerpt: Test..
+description: "Govloops quickly lays out the five steps of plain-language writing and why you should care."
+excerpt: Govloops quickly lays out the five steps of plain-language writing that have been making the rounds..
 author: kellykennedy
 # twitter: @kellyskennedy
 published: true
@@ -12,17 +12,27 @@ published: true
 <div class="row">
 <div class="small-12 medium-11 medium-centered columns" markdown="1">
 
-### Open Data:
--  Open data shows that even London’s parks exceed European Union recommendations for pollution levels, [reports edie.net.](http://www.edie.net/news/9/New-data-website-reveals-London-s-green-spaces-exceed-pollution-limits/)
+### Plain Language:
+- [Govloops quickly lays out](https://www.govloop.com/groups/digitalcommunication/forum/topic/tell-it-to-me-straight-plain-language/> the five steps of plain-language writing that have been making the rounds. It may seem obvious to those who write, but it's helpful when explaining how the process works and why it takes some time.
 
--  But, open data is also helping the UK dig for inefficiencies that can contribute to climate change, [reports growthbusiness.co.uk](http://www.growthbusiness.co.uk/news-and-market-deals/business-news/2540176/opendatacould-save-uk-energy-market-400-million-in-next-10-years.thtml).
+- [Plainlanguage.gov](http://www.plainlanguage.gov/plLaw/fedGovt/index.cfm>
+has a list of every government agency's plain-language webpage, as well as
+the designated senior official. [Veterans Affairs is here](http://www.va.gov/opa/Plain_Language.asp).
 
--  It’s also helping cities plan better to prevent overcrowding, [reports Government Technology](http://www.govtech.com/data/Data-Helps-Cities-Be-Preemptive-Effective-in-Preventing-Overcrowding.html). Ignoring the issue can lead to public health issues, safety problems that lead to things like people being trapped in burning buildings, and even higher costs for everyone
-as slumloards illegally sap electricity or water.
+- Lawyers - who may be guilty of some, well, lawyer-speak - have addressed the
+issue of bad fonts (and, gasp!, two periods after sentences) in
+[Lawyerist.com](https://lawyerist.com/115103/hey-hey-ho-ho-19th-century-fonts-got-go/).
+Get this: Alabama appellate courts recommend the use of Courier font. Now
+don't you feel good about your day?
 
--  Open data allows people to see the health of Philadelphia—and it’s “really scary,” [reports technical.ly](https://technical.ly/philly/2016/08/12/community-health-explorer-city-of-philadelphia/). Philly’s scoring worse than other big cities in obesity, premature death, smoking and hypertension.
-
--  Doctors have long argued that patients who have access to their own medical records could be scared by things they don’t have the education to understand. But one man took a look at his own medical records and saw a brain tumor medical professionals had missed, [reports Singularity Hub](http://singularityhub.com/2016/08/12/access-to-medical-data-helped-this-engineer-discover-his-own-brain-tumor/?utm_source=TopNav&utm_medium=link&utm_campaign=content%20access).
+- Back in the day, police officers used code when they talked over the
+radio to reduce tying up the airwaves, [writes PoliceOne.com](https://www.policeone.com/cad-pc/articles/212078006-Should-police-codes-be-phased-out-once-and-for-all/).
+Those codes were never standardized, so much like the recent hospital
+incident where a man passed out while his wife was giving birth and the
+security team responded thinking the problem was a bomb threat, things get
+confusing. A federal law in 2006 called for the end of the codes in favor
+of plain language, but departments are slow to change. It's so much easier
+to say "187" than "murder".
 
 ### Open Government:
 -  The White House announced Monday that it was implementing a policy to make code written by the federal government open-source, [reports The Christian Science Monitor](http://www.csmonitor.com/Technology/2016/0809/White-House-open-source-software-policy-goes-live). This will allow agencies to collaborate and reuse programs, as well as making software the government develops useful to the public.
