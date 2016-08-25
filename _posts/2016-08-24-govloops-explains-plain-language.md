@@ -13,9 +13,9 @@ published: true
 <div class="small-12 medium-11 medium-centered columns" markdown="1">
 
 ### Plain Language:
-- [Govloops quickly lays out](https://www.govloop.com/groups/digitalcommunication/forum/topic/tell-it-to-me-straight-plain-language/> the five steps of plain-language writing that have been making the rounds. It may seem obvious to those who write, but it's helpful when explaining how the process works and why it takes some time.
+- [Govloops quickly lays out](https://www.govloop.com/groups/digitalcommunication/forum/topic/tell-it-to-me-straight-plain-language/) the five steps of plain-language writing that have been making the rounds. It may seem obvious to those who write, but it's helpful when explaining how the process works and why it takes some time.
 
-- [Plainlanguage.gov](http://www.plainlanguage.gov/plLaw/fedGovt/index.cfm>
+- [Plainlanguage.gov](http://www.plainlanguage.gov/plLaw/fedGovt/index.cfm)
 has a list of every government agency's plain-language webpage, as well as
 the designated senior official. [Veterans Affairs is here](http://www.va.gov/opa/Plain_Language.asp).
 
@@ -34,35 +34,71 @@ confusing. A federal law in 2006 called for the end of the codes in favor
 of plain language, but departments are slow to change. It's so much easier
 to say "187" than "murder".
 
+### Open Data:
+
+- Tackling a couple of topics, rather than opening up everything, can be a
+good way to go about open data for a small government, [reports Government
+Technology](http://www.govtech.com/data/Analytics-Turning-a-Flood-of-Data-into-Valuable-Information.html).
+However, it still takes a lot of effort and money to ensure the data is
+available in the first place, and that no errors are made in processing
+that data.
+
+- Sometimes that data is so convoluted that it's attacked only by
+journalists who dig through and then give up and submit
+Freedom-of-Information-Act requests, [writes The Aspen Institute](https://www.aspeninstitute.org/blog-posts/open-data-goes-die/). That's a
+lot of wasted resources. In fact, most open-data sites are badly designed
+because they throw spaghetti at the wall, rather than planning carefully,
+they write.
+
+- And speaking of FOIA, the Defense Department needs to update its
+policies, [reports The Hill](http://thehill.com/policy/defense/291841-watchdog-pentagon-needs-to-update-foia-policies?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DNew%20Campaign&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief),
+and hasn't, in some cases, for 17 years.
+
+- The Justice Department believes intervening early with officers who
+violate rules can protect citizens, but when Justice looked at data from
+several departments, no one was tracking what happened after those early
+interventions, reports The Washington Post](https://www.washingtonpost.com/investigations/can-big-data-stop-bad-cops/2016/08/21/12db0728-3fb6-11e6-a66f-aa6c1883b6b1_story.html?utm_campaign=3DMilitary%20EBB%208-22-16&utm_medium=3Demail&utm_source=3DSailthru).
+Officials wonder if big data could help the departments=E2=80=94and the
+country=E2=80=94better track and protect.
+
 ### Open Government:
--  The White House announced Monday that it was implementing a policy to make code written by the federal government open-source, [reports The Christian Science Monitor](http://www.csmonitor.com/Technology/2016/0809/White-House-open-source-software-policy-goes-live). This will allow agencies to collaborate and reuse programs, as well as making software the government develops useful to the public.
 
--  After the White House announced an initiative to use open code for its software, the [Electronic Frontier Foundation](https://www.eff.org/deeplinks/2016/08/white-house-source-code-policy-should-go-further) writes that the proposal was significantly watered-down.
+- Providing citizens with data from the government can mean the government
+ends up with better programs and systems, [reports Ideas.ted.com](http://ideas.ted.com/how-open-government-data-creates-smarter-societies/). But it also allows people to make smart decisions about things like health care and renting an apartment.
 
- 
-### Plain Language:
--  [Govloops quickly lays out](https://www.govloop.com/groups/digitalcommunication/forum/topic/tell-it-to-me-straight-plain-language/) the five steps of plain-language writing that have been making the rounds. It may seem obvious to those who write, but it’s helpful when explaining how the process works and why it takes some time.
+- [The General Services Administration is hosting a session](http://us9.campaign-archive2.com/?u=3D6f1977de9eff4c384dc8d6527&id=3Ddd5d1b8d4a&e=3Ddd8a98a197)
+at 9 a.m. Sept. 8 to help people better understand how the Technology Transformation Service buys, builds and shares federal-government technology.
 
--  [The National Institutes of Health seeks to help health professionals](https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/science-health-public-trust/clearing-path-understanding) write their messages in a way their patients actually understand, which could potentially save thousands of lives, as well as millions of dollars. One recommendation? “Use everyday words.”
+### Tech/Writing Contracts:
 
--  [Quote.com looked at public figures through the ages and found](https://quote.com/blog/smartest-speeches-analyzing-the-grade-level-of-leaders-public-comments/), for the most part, they use plain language—and it’s important because, they write, one-quarter of Americans read below a fifth-grade level. Interestingly, Clarence Thomas speaks at tenth-grade reading level, while Bill Gates speaks at a seventh-grade level.
+- [The Aeronautics Research Mission Directorate](https://www.fbo.gov/index?s=3Dopportunity&mode=3Dform&tab=3Dcore&id=3D6c36c57398359f94da3bd27ab0ea789a) is looking for a writer or team or writers to communicate between the directorate and its stakeholders, government agencies and the public.
 
-Tech Contracts:
--  NASA is soliciting contract writers to write web stories, presentations and speeches, develop content for government documents, write press releases and create brochures, [according to FBO.gov](https://www.fbo.gov/index?s=opportunity&mode=form&tab=core&id=6c36c57398359f94da3bd27ab0ea789a).
+### Vet Politics:
 
- 
-### Tech politics:
--  [The Conversation looks at](http://theconversation.com/can-big-data-studies-know-your-thoughts-and-predict-who-will-win-an-election-63110) whether big data can analyze the Internet to determine whom we’re going to vote for in the fall. But the article also touches on why data scientists will be in such huge demand in the future.
+- Presidential candidate Donald Trump is leading Hillary Clinton in polls
+by 10 percentage points among military families, [reports The Hill](http://thehill.com/policy/defense/291654-poll-trump-leads-clinton-among-military-households?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DMilitary%20EBB%208-17-16&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief).
 
-### Geek Love:
--  Here in DC, we’ve all avoided Poke-minded tourists chasing creatures on busy sidewalks, but Pokemon offers an easy-to-understand example of “augmented reality,” [reports Government Technology](http://www.govtech.com/computing/What-Is-Augmented-Reality.html). Some governments are using similar technology to create text overlays for monuments and bird-identification information in parks.
 
 ### Vet Love:
--  As Veterans Affairs works to find a replacement for its outdated VistA electronic health record system,
 
--  Docs are seeing a connection between posttraumatic stress symptoms that don’t respond to treatment and the possibility of a mefloquine overdose, [reports Military Times](http://www.militarytimes.com/story/military/2016/08/11/malaria-drug-causes-permanent-brain-damage-case-study/88528568/?utm_source=Sailthru&utm_medium=email&utm_campaign=Mil%20EBB%208.12.16&utm_term=Editorial%20-%20Military%20-%20Early%20Bird%20Brief).
+- Veterans Affairs is testing 33 private-sector-inspired projects to try
+to make their programs faster and better, [reports Task & Purpose](http://taskandpurpose.com/va-partnering-private-sector-solve-biggest-problems/?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DMilitary%20EBB%208-17-16&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief). The VA Innovators Project is looking at mental health care in emergency rooms, cardiac rehabilitation at home through technology, and community
+hubs for Veterans who want more say in their treatments.
 
--  The Pentagon is one step closer to extending online commissary benefits to Vets, [reports Military Times](http://www.militarytimes.com/story/military/benefits/2016/08/15/pentagon-closer-extending-generous-new-benefit-millions-veterans/88775046/?utm_source=Sailthru&utm_medium=email&utm_campaign=Military+EBB+8-16-15&utm_term=Editorial+-+Military+-+Early+Bird+Brief).
+- Some innovators presented their ideas Shark-Tank style, offering Fitbits
+for older patients, Apple watches to Veterans in rural areas to monitor activity, and having nurses determine if same-day appointments were necessary for some patients, [reports Military Times](http://www.militarytimes.com/articles/va-employees-pitch-ideas-on-health-services?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DMilitary%20EBB%208-22-16&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief).
 
-### What we’re reading:
--  Businesses lose $650 million to “multitasking” every year, [writes the author of Massive Life Success](https://medium.com/art-of-practicality/how-to-quit-your-multitasking-addiction-2d2edf740649#.etj4m2sp3). He has a few questions to help determine if you  are addicted to multitasking, including, “Do you reach for your phone every five minutes?” and “Do you ever find it hard to focus on one thing?” Eep.
+
+- Thirty-one Veterans will compete in the Paralympics in Rio in
+September, [reports Task & Purpose](http://taskandpurpose.com/31-veterans-headed-paralympics-team-usa/?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DMilitary%20EBB%208-18-16&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief). Because of course.
+
+- Iraq & Afghanistan Veterans of America will host a debate between Donald
+Trump and Hillary Clinton that focuses on Veterans' and military issues
+Sept. 7, [reports Military Times](http://www.militarytimes.com/articles/veterans-issues-2016-election-final-push?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DMilitary%20EBB%208-22-16&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief).
+
+
+### What we're reading:
+
+- On some level, we probably all know what has led to our greatest "aha!" moments. But The Mission put together [a five-step guide](https://medium.com/the-mission/for-a-more-creative-brain-follow-these-5-steps-2a248250e4a0#.9mbglesxc) to coming up with an idea that, well, "aha!" It might not be quite as nebulous and free-flowing as we like to believe.
+
+</div></div>
