@@ -55,5 +55,3 @@ You will be expected to own the entire content lifecycle analyzing, planning, wr
 - Strong background in UI/UX development
 
 Please contact [contact@thesocompany.com](mailto:contact@thesocompany.com) for more information.
-</div>
-</div>
