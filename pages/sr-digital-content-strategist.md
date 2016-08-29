@@ -41,14 +41,14 @@ The So Company was hired to solve a problem: VA customer experience is fragmente
 
 ### WHAT YOU WILL BE DOING
 
-You will deploy your strong healthcare experience with a creative approach to problem solving in order develop a new strategy for health content on the vets.gov site. This includes developing health literacy guidelines, writing and editing content for unique health topics, expanding into subtopics and contributing to any research effort required. Beyond simply developing content strategy for vets.gov, you will write and edit each of the sections, collaborating and coordinating with your teammates and contract partners, seamlessly. 
+You will deploy your strong healthcare experience with a creative approach to problem solving in order develop a new strategy for health content on the vets.gov site. This includes developing health literacy guidelines, writing and editing content for unique health topics, expanding into subtopics and contributing to any research effort required. Beyond simply developing content strategy for vets.gov, you help the vets.gov content team write and edit each of the sections, collaborating and coordinating with your teammates and contract partners, seamlessly. 
 
-You will be expected to own the entire content lifecycle analyzing, planning, writing, editing, distributing, managing, monitoring, and sunsetting content. In addition, you will work with and draw on your experience in information architecture and delivery technologies. 
+You will be expected to own the entire digital content lifecycle analyzing, planning, writing, editing, distributing, managing, monitoring, and sunsetting content. In addition, you will work with and draw on your experience in information architecture and delivery technologies. 
 
 #### Candidate Qualifications: 
 
 - 5+ years creating and managing digital content 
-- Experience in the healthcare space 
+- Experience in the healthcare industry, espcially with digital health content
 - Ability to work remotely with flexibility to travel to Washington DC when necessary (less than 10%)
 - Experience working with smaller teams in a startup environment
 - Familiarity with open source coding platforms like Github
