@@ -29,15 +29,15 @@ The So Company was hired to solve a problem: VA customer experience is fragmente
 - Providing transparency about our methods and processes
 
 #### Design Principles
-	- Understand human need: design for people, rather than VA’s systems
-	- Assume every visitor is new
-	- Speak clearly, respectfully and directly
-	- Help people reach their goals every time
-	- Connect with customers and create opportunities for feedback and dialog
-	- Research, observe, test and continuously improve
-	- Measure what matters
-	- Be device agnostic
-	- Employ modern development practices – be agile
+- Understand human need: design for people, rather than VA’s systems
+- Assume every visitor is new
+- Speak clearly, respectfully and directly
+- Help people reach their goals every time
+- Connect with customers and create opportunities for feedback and dialog
+- Research, observe, test and continuously improve
+- Measure what matters
+- Be device agnostic
+- Employ modern development practices – be agile
 
 ### WHAT YOU WILL BE DOING
 
