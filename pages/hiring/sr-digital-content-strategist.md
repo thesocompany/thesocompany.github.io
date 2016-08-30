@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sr. Digital Content Strategist
-permalink: /sr-digital-content-strategist/
+permalink: /hiring/sr-digital-content-strategist/
 ---
 
 <div class="row">
