@@ -14,10 +14,9 @@ published: true
 
 ### Plain Language:
 
-- There's a [plain-language group at LinkedIn](http://plainlanguagenetwork.org/plain/linkedin-plain-group/#.V8R9C5grI2w) that tussles with daily writing questions, such as, "Has anyone tried the Hemingway app?" or, "How do you explain to your boss it takes me three hours to rewrite something he's already written?" Anyone interested in
-plain writing can join.
+- There's a [plain-language group at LinkedIn](http://plainlanguagenetwork.org/plain/linkedin-plain-group/#.V8R9C5grI2w) that tussles with daily writing questions, such as, "Has anyone tried the Hemingway app?" or, "How do you explain to your boss it takes me three hours to rewrite something he's already written?" Anyone interested in plain writing can join.
 
-- Using positive language, even when writing about negative things, makes people feel better, [writes the Center for Plain Language](http://enterforplainlanguage.org/positive-language-makes-our-brains-happier/). It also brings in more clients.
+- Using positive language, even when writing about negative things, makes people feel better, [writes the Center for Plain Language](http://centerforplainlanguage.org/positive-language-makes-our-brains-happier/). It also brings in more clients.
 
 - [The Write Clearly Blog suggests](https://writeclearlyblog.com/2016/08/30/write-better-sentences-by-starting-with-the-subject/) always starting a sentence with the subject. That's the easiest way to create an active-voice sentence.
 
