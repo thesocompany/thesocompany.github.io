@@ -12,11 +12,11 @@ published: true
 
 ### Plain Language:
 
--  An opinion piece in (The New York Times)[http://www.nytimes.com/2016/09/02/business/dealbook/a-plea-for-plain-english-in-financial-documents.html?_r=3D0] made a plea for plain language in investment writing, stating that documents should not begin with boldfaced, all-cap statements that make no sense. They praise Warren Buffett's introduction to the Securities and Exchange Commission's "Plain English Handbook" (really), where he states,
+-  An opinion piece in (The New York Times)[http://www.nytimes.com/2016/09/02/business/dealbook/a-plea-for-plain-english-in-financial-documents.html] made a plea for plain language in investment writing, stating that documents should not begin with boldfaced, all-cap statements that make no sense. They praise Warren Buffett's introduction to the Securities and Exchange Commission's "Plain English Handbook" (really), where he states,
 "I pretend that I'm talking to my sisters." His sisters obviously don't work in the government. They also make some suggestions, such as not using "Herein" or all caps. Ever.
 
 -  I onboarded today to get an ID card. "Onboarding" made a (Coffeelicious'
-list)[https://medium.com/the-coffeelicious/13-more-words-that-everyone-is-tired-of-1f45adcfdba7#.3kmkm0wwo] of 13 words everyone is tired of, including "lean," "value bomb" and "integrate."
+list)[https://medium.com/the-coffeelicious/13-more-words-that-everyone-is-tired-of-1f45adcfdba7#] of 13 words everyone is tired of, including "lean," "value bomb" and "integrate."
 
 ### Open Data:
 
