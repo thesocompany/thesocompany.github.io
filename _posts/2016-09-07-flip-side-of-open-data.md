@@ -1,10 +1,10 @@
 ---
 layout: post
-title: something - Dispatch 09-07-2016
+title: Flip side of open data - Dispatch 09-07-2016
 date:   2016-09-07 15:51:15 -0500
 categories: updates
-description: "what."
-excerpt: "what"
+description: "Some activists argue that open data isn't always used for good: Police departments across the nation are using "predictive policing" software to guess where a crime will be and who will commit it, reports StateScoop.."
+excerpt: "Some activists argue that open data isn't always used for good: Police departments across the nation are using "predictive policing" software to guess where a crime will be and who will commit it..."
 author: Kelly Kennedy
 published: true
 ---
