@@ -3,8 +3,8 @@ layout: post
 title: Flip side of open data - Dispatch 09-07-2016
 date:   2016-09-07 15:51:15 -0500
 categories: updates
-description: "Some activists argue that open data isn't always used for good. Police departments across the nation are using predictive policing software to guess where a crime will be and who will commit it.."
-excerpt: "Some activists argue that open data isn't always used for good. Police departments across the nation are using predictive policing software to guess where a crime will be and who will commit it.."
+description: "Some activists argue that open data isn't always used for good: Police departments across the nation are using predictive policing software to guess where a crime will be and who will commit it.."
+excerpt: "Some activists argue that open data isn't always used for good: Police departments across the nation are using predictive policing software to guess where a crime will be and who will commit it.."
 author: Kelly Kennedy
 published: true
 ---
