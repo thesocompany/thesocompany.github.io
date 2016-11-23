@@ -37,7 +37,7 @@ concept](https://www.devex.com/news/what-is-human-centered-design-and-why-does-i
 
 - The University of Waterloo created a goose-tracking map using open data to help students avoid being attacked, [reports The Verge's Lizzie Plaugic](http://www.theverge.com/2016/11/21/13677516/goose-watch-geese-tracking-app-university-of-waterloo). Feathers. Ruffled.
 
-- And, as Government Techology's [Jennifer Angarita reports](http://www.govtech.com/data/3-Key-Strategies-for-Unlocking-Potential-of-Open-Data-Through-Community-Engagement.html>,
+- And, as Government Techology's [Jennifer Angarita reports](http://www.govtech.com/data/3-Key-Strategies-for-Unlocking-Potential-of-Open-Data-Through-Community-Engagement.html),
 that may be a pretty good example of engaging the community with a solution that addresses a daily issue. She offers three strategies for gaining community engagement through open data.
 
 ### Contracting:
