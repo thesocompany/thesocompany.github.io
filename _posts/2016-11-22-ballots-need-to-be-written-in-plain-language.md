@@ -50,29 +50,24 @@ that may be a pretty good example of engaging the community with a solution that
 
 - Donald Trump may be considering Sen. Jeff Miller to lead Veterans Affairs, and is taking advice from Concerned Veterans America, a group funded by the Koch Brothers that has called for privatizing VA, [reports The New York Times' Dave Phillips](http://www.nytimes.com/2016/11/16/us/donald-trump-veterans-affairs-leader.html) .
 
-- First Lady Michelle Obama has asked the incoming Trump Administration to keep Joining Forces alive, even if they rename and rebrand it, reports Military Times' Leo Shane](http://www.militarytimes.com/articles/joining-forces-final-plea-obama?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DEarly%20Bird%20Brief%2011.16.2016&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief).
-
+- First Lady Michelle Obama has asked the incoming Trump Administration to keep Joining Forces alive, even if they rename and rebrand it, [reports Military Times' Leo Shane](http://www.militarytimes.com/articles/joining-forces-final-plea-obama?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DEarly%20Bird%20Brief%2011.16.2016&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief).
 
 - A bill requires VA to answer all calls to its crisis line in a timely manner, [reports The Associated Press](http://www.militarytimes.com/articles/congress-backs-bill-requiring-timely-answers-at-va-hotline?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DMil%20EBB%2011.17.16&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief).
-
 
 - One in four service members say they're worried about serving under a Donald Trump presidency, [reports Military Times' Leo Shane and George R. Altman](http://www.militarytimes.com/articles/military-times-poll-donald-trump-military-national-security?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DMil%20EBB%2011.18.16&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief). More than half of women fear their jobs will be adversely affected.
 
 - Three Veterans found their dream jobs in the White House, [reports Military.com's Hope Hedge Seck](http://www.military.com/daily-news/2016/11/20/vets-share-their-journey-from-the-military-to-the-white-house.html?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DEarly%20Bird%20Brief%2011.21.2016&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief).
 
-
 ### Vet Love:
 
 - A new study shows an association between high blood pressure and Agent Orange exposure, 
-[reports Probublica's Charles Ornstein](https://www.propublica.org/article/new-study-could-pressure-va-to-expand-agent-orange-benefits?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DEarly%20Bird%20Brief%2011.16.2016&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief). Critics have said that if VA had addressed Agent Orange early, it might not
-be forced now to pay for associations common in aging Americans, such as diabetes and heart disease.
+[reports Probublica's Charles Ornstein](https://www.propublica.org/article/new-study-could-pressure-va-to-expand-agent-orange-benefits?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DEarly%20Bird%20Brief%2011.16.2016&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief). Critics have said that if VA had addressed Agent Orange early, it might not be forced now to pay for associations common in aging Americans, such as diabetes and heart disease.
 
 - Connecticut is helping Veterans with post-traumatic stress who received bad discharge papers get an upgrade, [reports The Day's Julia Bergman](http://www.stripes.com/news/us/connecticut-first-in-nation-to-help-ptsd-vets-upgrade-bad-paper-discharges-1.439615?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DEarly%20Bird%20Brief%2011.16.2016&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief).
 
-
 - A new Department of Justice Program fights for the rights of Servicemembers and their families, [reports the Fayetteville Observer's Drew Brooks](http://www.fayobserver.com/military/fayetteville-native-helms-program-protecting-servicemembers-veterans/article_0f20d2f6-b454-5d5c-863e-3a239cb13df6.html?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DEarly%20Bird%20Brief%2011.21.2016&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief).
 
-- The only military memorial for women, which sits at Arlington National Cemetery, needs $20 million to keep it going, [reports Army Times' Charlsy Panzino](https://www.armytimes.com/articles/americas-only-memorial-to-military-women-needs-your-help?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DEarly%20Bird%20Brief%2011.21.2016&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief). To donate, click here <https://fundrazr.com/savethewomensmemorial).
+- The only military memorial for women, which sits at Arlington National Cemetery, needs $20 million to keep it going, [reports Army Times' Charlsy Panzino](https://www.armytimes.com/articles/americas-only-memorial-to-military-women-needs-your-help?utm_source=3DSailthru&utm_medium=3Demail&utm_campaign=3DEarly%20Bird%20Brief%2011.21.2016&utm_term=3DEditorial%20-%20Military%20-%20Early%20Bird%20Brief). To donate, [click here](https://fundrazr.com/savethewomensmemorial).
 
 - Newman's Own donated $1.5 million to 23 Veterans groups, [reports Military Times' Karen Jowers](http://www.militarytimes.com/articles/23-veterans-groups-share-15-million-in-donations-from-newmans-own). Salad dressing, anyone?
 
