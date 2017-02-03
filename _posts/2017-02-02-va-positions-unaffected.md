@@ -39,7 +39,7 @@ published: true
 
 ### Vet Politics:
 
-- [Military Times reports](http://www.militarytimes.com/articles/what-percentage-of-federal-workers-are-veterans) that Veteran Affairs released a list of positions that will be unaffected by the government's hiring freeze.
+- [Military Times reports](http://www.militarytimes.com/articles/va-hiring-freeze-list-exempted-positions) that Veteran Affairs released a list of positions that will be unaffected by the government's hiring freeze.
 
 - Relatives of Iraqi interpreters will be able to emigrate to the United States after all, [reports The New York Times](https://www.nytimes.com/2017/02/02/world/middleeast/trump-visa-ban-iraq-interpreters.html).
 
