@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Critics say voters have a hard time - Dispatch 11-08-2016
-date:   2016-11-08 15:51:15 -0500
+title: Dispatch - Critics say voters have a hard time
 categories: updates
 description: "Critics say voters have a hard time"
 excerpt: "Critics say voters have a hard time with Texas's voting law..."
-author: Kelly Kennedy
 published: true
 ---
 
