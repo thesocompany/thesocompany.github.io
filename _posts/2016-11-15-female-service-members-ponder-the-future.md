@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Female service members ponder the future - Dispatch 11-15-2016
-date:   2016-11-15 15:51:15 -0500
+title: Dispatch - Female service members ponder the future 
 categories: updates
 description: "Female service members wonder if they'll still have the chance to serve in infantry rolls"
 excerpt: "Female service members wonder if they'll still have the chance to serve in infantry rolls..."
-author: Kelly Kennedy
 published: true
 ---
 
