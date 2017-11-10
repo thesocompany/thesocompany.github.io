@@ -1,7 +1,7 @@
 ---
 layout: page
 title: List of posts
-permalink: /updates/
+permalink: /dispatch/
 ---
 
 <div class="row">
