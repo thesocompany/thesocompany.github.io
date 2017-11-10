@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Ballots need to be written in plain language - Dispatch 11-21-2016
-date:   2016-11-21 15:51:15 -0500
+title: Dispatch - Ballots need to be written in plain language
 categories: updates
 description: "Interestingly, the first comment states that people who want to vote should better educate themselves"
 excerpt: "Interestingly, the first comment states that people who want to vote should better educate themselves..."
-author: Kelly Kennedy
 published: true
 ---
 
