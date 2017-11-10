@@ -1,11 +1,9 @@
 ---
 layout: post
-title: HCD and the Veteran experience - Dispatch 11-1-2016
-date:   2016-11-1 15:51:15 -0500
+title: Dispatch - HCD and the Veteran experience
 categories: updates
 description: "The Veterans Experience office asked them, rather than taking conventional wisdom as truth"
 excerpt: "The Veterans Experience office asked them, rather than taking conventional wisdom as truth."
-author: Kelly Kennedy
 published: true
 ---
 
