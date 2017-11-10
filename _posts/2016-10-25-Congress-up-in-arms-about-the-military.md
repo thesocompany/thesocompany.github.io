@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Congress up in arms about the military - Dispatch 10-25-2016
-date:   2016-10-17 15:51:15 -0500
+title: Dispatch - Congress up in arms about the military
 categories: updates
 description: "Congress is up in arms about the military taking back bonuses given to California Guardsmen.."
 excerpt: "Congress is up in arms about the military taking back bonuses given to California Guardsmen, but they’ve known it was coming for two years..."
-author: Kelly Kennedy
 published: true
 ---
 <div class="row">
 <div class="small-12 medium-9 medium-centered columns" markdown="1">
-
-### 10/25/2016
 
 ### Plain Language:
 
