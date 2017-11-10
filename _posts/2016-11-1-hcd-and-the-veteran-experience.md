@@ -12,8 +12,7 @@ published: true
  
 ### Copyediting Greatest Hits:
  
->Welcome to the Greatest Hits for this week! I have only one topic this week. I need to write an entry for the style guide about using "they" and "their" as gender neutral pronouns--and whether or not we take this approach on vets.gov. I wanted to share some sources I've found to help inform this decision, so you have a glimpse into my nerdy world. Plus I thought this might be fun to throw out to the group, because many people 
-have a strong opinion about this one. Let me know yours! 
+>Welcome to the Greatest Hits for this week! We have only one topic for this dispatch. We need to write an entry for the style guide about using "they" and "their" as gender neutral pronouns--and whether or not we take this approach on Vets.gov. We wanted to share some sources we've found to help inform this decision, so you have a glimpse into my nerdy world. Plus we thought this might be fun to throw out to the group, because many people have a strong opinion about this one. Let us know yours! 
  
 1) *Grammar Girl* has this:  
 [Generic Singular Pronouns Learn when you should use "he," "she," "he/she," and "they."](http://www.quickanddirtytips.com/education/grammar/generic-singular-pronouns?page=2)
@@ -32,8 +31,6 @@ a gender-neutral alternative because they are traditionally regarded as singular
 The entry notes that it is very common in British English. "And one of the best-edited American papers allows this: 'If the newspaper can't fire him for an ethical breach surely they [read *it*] can fire him for being stupid.'" *Wall Street Journal: 4) *The New Fowler's Modern English Language*, third edition, has this for their entry on *they*, *their*, *them: 
  
 "Over the centuries, writers of standing have used they, their, and them with anaphoric reference to a singular pronoun or noun, and the practice has continued in the 20c. to the point that, traditional grammarians aside, such constructions are hardly noticed any more or are not widely felt to lie in a prohibited zone." 
-
-Beth Potts
 
 ---
 
