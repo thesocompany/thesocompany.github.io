@@ -1,11 +1,11 @@
 ---
 layout: post
-title: VA positions unaffected - Dispatch 02-02-2017
+title: Dispatch - VA positions unaffected 
 date:   2017-02-02 15:51:15 -0500
 categories: updates
 description: "Many VA positions will be unaffected by the freeze..."
 excerpt: "Veteran Affairs released a list of positions that will be unaffected by the government’s hiring freeze.."
-author: Tiby Kantrowitz
+author:
 published: true
 ---
 
