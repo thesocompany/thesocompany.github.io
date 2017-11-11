@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Police Departments release data - Dispatch 10-17-2016
-date:   2016-10-17 15:51:15 -0500
+title: Dispatch - Police Departments release data
 categories: updates
 description: "Police departments across the country will publish data sets as part of a White-House initiative to create transparency in law enforcement.."
 excerpt: "Police departments across the country will publish data sets as part of a White-House initiative to create transparency in law enforcement.."
-author: Kelly Kennedy
 published: true
 ---
 <div class="row">
@@ -13,7 +11,7 @@ published: true
 
 ### Copyediting Greatest Hits:
 
->For Greatest Hits this week, I present to you our new DSVA-approved style guide entry for linking conventions (below), as well as a link to the new location of the style guide:
+>For Greatest Hits this week, we present to you our new DSVA-approved style guide entry for linking conventions (below), as well as a link to the new location of the style guide:
 
 [http://bit.ly/vets-gov-style-guide](http://bit.ly/vets-gov-style-guide)
 
