@@ -1,11 +1,9 @@
 ---
 layout: post
-title: International Plain Language Day - Dispatch 10-11-2016
-date:   2016-10-11 15:51:15 -0500
+title: Dispatch - International Plain Language Day
 categories: updates
 description: "October 13 is International Plain Language Day!"
 excerpt: "October 13 is International Plain Language Day! Break out the bubbly!"
-author: Kelly Kennedy
 published: true
 ---
 
@@ -20,7 +18,7 @@ published: true
 Welcome to this week's Greatest Hits of recent copyediting and
 plain-language edits and additions to the vets.gov style guide.
 
-1) Here's a recent example of passive voice that I changed to active:
+1) Here's a recent example of passive voice that we changed to active:
 
 *Passive*: Your information will be kept private at all times.
 
@@ -29,7 +27,7 @@ information private?)
 
 *Active*: We will keep your information private at all times.
 
-2) Danielle tipped me off to a low-literacy guideline for word choice that I'll be adding to the style guide that has to do with the number of syllables in a word. CDC's "Simply Put: A Guide for Creating Easy-to-Understand Materials" says, "Use words with 1-2 two syllables when you can." Danielle and I were thinking that our vets.gov rule would say
+2) Danielle tipped us off to a low-literacy guideline for word choice that I'll be adding to the style guide that has to do with the number of syllables in a word. CDC's "Simply Put: A Guide for Creating Easy-to-Understand Materials" says, "Use words with 1-2 two syllables when you can." Danielle and I were thinking that our vets.gov rule would say
 something like: "Use 1 and 2 syllable words when you can, 3 if needed, and 4 only when there's no other alternative." It'll be a general guideline. This topic came up because we were using the words "participate" and "participation" in some text. That's too many syllables!
 
 3) Here's an example of a sentence I rewrote to make our tone more conversational:
@@ -40,8 +38,6 @@ something like: "Use 1 and 2 syllable words when you can, 3 if needed, and 4 onl
 1-866-441-6075.
 
 Have a great week, everyone!
-
-- Beth Potts
 
 ---
 
