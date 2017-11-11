@@ -1,17 +1,13 @@
 ---
 layout: post
-title: Coming from Philly - Dispatch 09-20-2016
-date:   2016-09-20 15:51:15 -0500
+title: Dispatch - Coming from Philly
 categories: updates
 description: "constantly honing our plain-language skills.."
 excerpt: "Apparently, everyone is a dynamic, driven, passionate leader, so what are you doing to stand out.."
-author: Kelly Kennedy
 published: true
 ---
 <div class="row">
 <div class="small-12 medium-9 medium-centered columns" markdown="1">
-
->I decided to send out Greatest Hits this week during my layover in Philly. I like it here. I went to a nice little Quaker boarding school nearby, so I'm feeling rather nostalgic. Anyway...
 
 ### Copyediting Greatest Hits:
 
@@ -44,8 +40,6 @@ That's it for this week!
 An aside... to give you a sense of how focused my brain is on plain language these days, I started editing the flight attendant on my way to Philly: The captain has reilluminated the fasten-your-seatbelt sign.
 
 Reilluminated?! Are you kidding me...?
-
-Beth Potts
 
 ***
 
