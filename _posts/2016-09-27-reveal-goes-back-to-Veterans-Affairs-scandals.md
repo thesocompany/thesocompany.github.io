@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Reveal goes back to Veterans Affairs scandals - Dispatch 09-27-2016
-date:   2016-09-27 15:51:15 -0500
+title: Dispatch - Reveal goes back to Veterans Affairs scandals
 categories: updates
 description: "Reveal went back to the Veterans Affairs scandals of two years ago.."
 excerpt: "Reveal went back to the Veterans Affairs scandals of two years ago, and investigated what VA did as a follow-up.."
-author: Kelly Kennedy
 published: true
 ---
 <div class="row">
@@ -43,8 +41,6 @@ alternatives sufficient to our needs:
 
   * compensation (use sparingly): CH says, whenever possible, choose more
 specific language, like "monthly payment".
-
-Beth Potts
 
 ***
 
