@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Federal government names chief design officer - Dispatch 10-04-2016
-date:   2016-10-04 15:51:15 -0500
+title: Dispatch - Federal government names chief design officer
 categories: updates
 description: "The federal government has named its
 first-ever chief design officer, Sarah B. Brooks"
 excerpt: "The federal government has named its first-ever chief design officer, Sarah B. Brooks"
-author: Kelly Kennedy
 published: true
 ---
 <div class="row">
