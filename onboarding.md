@@ -13,6 +13,10 @@ If you have questions as you’re onboarding, please be sure to let one of us kn
 
 You should already have your email account set up, but here are some other things you’ll need as you begin your work. 
 
+**Guideline**
+
+[Check out your 401k.](https://my.guideline.com)
+
 ## Onboarding:
 
 Before you ever start work on a project, please do the following:  
