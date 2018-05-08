@@ -1,7 +1,7 @@
-# Vets.gov onboarding
+# So Company onboarding
 ## [Your team name here]
 
-Hiya! Welcome to the Vets.gov team! New terms and systems will start flying fast in 3...2...1.
+Hiya! Welcome to the [fill in the blank] team at the So Company! New terms and systems will start flying fast in 3...2...1.
 
 So, we’ve created this quick guide to get you started, but also to serve as a reference in the future. You are always welcome to ask any member of the team questions: We all remember the first hour (okay, day), where we stared at the screen wondering where to start, even after going through some training. 
 
@@ -9,7 +9,7 @@ This guide is meant to get you through that hour, but also to backfill you on th
 
 If you have questions as you’re onboarding, please be sure to let one of us know so we can update this document. 
 
-## HR basics:
+# HR basics:
 
 You should already have your email account set up, but here are some other things you’ll need as you begin your work. 
 
@@ -40,22 +40,15 @@ The PIV card allows you access to VA email, buildings and programs. It's a long,
  - [Take a look at the onboarding checklist to make sure you're on track](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/448948ee5c4971496f9e8fda254a343bbc34a76d/Work%20Practices/Onboarding%20and%20Offboarding/Vendor%20Onboarding/Onboarding%20checklist.md) (UPDATE THIS WITH NEW INFO FROM NEAL. ADD NEAL's EMAIL)
   - Should you get a PIV card, you’ll also get a VA email address. If you don't receive an email about your account, it may be because the email went to your new VA email account that you don't yet have access to. (No, really.) IF THAT HAPPENS, CHECK THIS OUT
 
-## On Call (If this applies to your team, edit, please. If not, please delete.)
-
-We require some teams to have people on-call in case of any emergencies. If this applies to you, please: 
-
-- Request a PagerDuty account by creating a GitHub issue in vets.gov-team and ask in [#sre](https://dsva.slack.com/sre/) for someone to take it. 
- - Then contact your [team lead](/Work%20Practices/VetsGov_OrgChart.pptx) to plan your [On Call](/Work%20Practices/Engineering/OnCall) schedule.
-
 ## Slack
 
 You’ll receive an invitation for the general So Company Slack. This is where you’ll learn about internal company issues, such as new health insurance policies or notes about things we find interesting. Feel free to say hello or to post anything you find interesting that might apply to what other employees are doing. For example, if you discover an easy way to do something or find a fascinating article about teleworking, spread the love!
 
-Visit So Company’s Slack. 
+[Visit So Company’s Slack.](https://www.nytimes.com/editorial-standards/ethical-journalism.html) 
 
-You’ll also receive an invitation from Vets.gov for the project Slack. That includes people from So Company, as well as people from other contracting companies and VA employees.
+You’ll also receive an invitation from your team for the project Slack. That includes people from So Company, as well as people from other contracting companies and VA employees.
 
-Visit the Vets.gov team’s Slack. 
+Visit [fill-in-the-blank] team’s Slack. 
 
 After you’ve set up Slack, you’ll want to make sure you’re on the appropriate product slack teams.
 
