@@ -13,7 +13,7 @@ If you have questions as you’re onboarding, please be sure to let one of us kn
 
 You should already have your email account set up, but here are some other things you’ll need as you begin your work. 
 
-## Onboarding:
+# Onboarding:
 
 Before you ever start work on a project, please do the following:  
 
@@ -108,39 +108,6 @@ Visit the Vets.gov MD and HTML guide.
 If you’re building a page from scratch, you’ll often need to copy-and-paste code from other pages.
 Find examples of elements to copy-and-paste.  
 
-
-Vets.gov Code of Conduct
-
-We don’t discriminate or harass, and we’re inclusive. 
-Find out how to (and how not to) act.
-
-Kudos to griffins riding unicorns…or a guide to Vets.gov teams
-
-It’s pretty nerdy up in here. Everyone fairly freely admits it. So here’s a description of our teams:
-
-Nebula: Overall Vets.gov content and hardening (by “hardening,” we mean constantly improving the site so it’s more user-friendly). 
-
-Rainbows: Creates and builds forms and tools. Content team provides content support (writing and editing)
-Some examples of the tools the team works on:
-•      Education, Health Care, Pension/Burial forms
-•      686 Dependents form
-•      VIC application
-•      email messaging (new initiative)
-Find out more about Rainbows
-Unicorns: Creates and builds forms and tools. Content team provides content support (writing and editing)
-Some examples of the tools the team works on:
-•      526 Disability form
-•      Post-9/11 GI Bill Benefits tool
-•      VA Letters
-•      Appeals
-Griffins:
-•      Vets.gov sign-in and identity verification (includes signing in via ID.me, DS Logon, and MHV)
-•      Facility Locator
-Dragons Team:
-•      Personalization initiative for Vets.gov (i.e., account page, profile page, Vets.gov dashboard)
-Kudos Team:
-•      Improve the sign-in experience
-Find out more about Kudos
 
 
 Stuff you’ll need every day:
