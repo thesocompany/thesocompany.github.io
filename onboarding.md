@@ -13,6 +13,16 @@ If you have questions as you’re onboarding, please be sure to let one of us kn
 
 You should already have your email account set up, but here are some other things you’ll need as you begin your work. 
 
+## Tsheets:
+
+Fill out your timecard every day cuz the guv'ment's watching and because poor Paul doesn't need to spend all of his time chasing down our lovely selves (you know he's calling us names in his head.
+
+[Find your So Company timecard.](https://storij.tsheets.com/page/login)
+
+If you're working with Ad Hoc, you'll also need to fill out their time cards every day. It's a little tricky: You must first sign out of Tsheets for So Company, and then make sure you've changed the url and actually clicked through to the Ad Hoc page before resigning in to their Tsheets page. 
+
+[Find your Ad Hoc timecard.](https://adhoc.tsheets.com/page/login)
+
 # Onboarding:
 
 Before you ever start work on a project, please do the following:  
