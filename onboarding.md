@@ -31,7 +31,11 @@ So company uses Gusto for paystubs, tax information and benefit information--suc
 
 ## Healthcare:
 
-You'll need to choose your own healthcare plan
+So Company offers a monthly allowance for your healthcare. You'll need to choose your own healthcare plan. To do that, you can link through to private plans through PeopleKeep, or choose a private plan through the government's marketplace.
+
+[Check your reimbursement summary at PeopleKeep](https://thesocompany.peoplekeep.com/).
+
+[Choose a healthcare plan through a federal or state marketplace](https://www.healthcare.gov/).
 
 ## 401k
 
