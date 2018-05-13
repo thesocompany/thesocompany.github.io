@@ -23,6 +23,16 @@ If you're working with Ad Hoc, you'll also need to fill out their time cards eve
 
 [Find your Ad Hoc timecard.](https://adhoc.tsheets.com/page/login)
 
+## Healthcare:
+
+You'll need to choose your own healthcare plan
+
+## 401k
+
+You never look at it until you need to look at it, and then you can never remember the name or website address. So here:
+
+[Check out your So Company 401k plan](https://my.guideline.com/login).
+
 # Onboarding:
 
 Before you ever start work on a project, please do the following:  
