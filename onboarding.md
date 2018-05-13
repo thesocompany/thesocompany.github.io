@@ -15,13 +15,19 @@ You should already have your email account set up, but here are some other thing
 
 ## Tsheets:
 
-Fill out your timecard every day cuz the guv'ment's watching and because poor Paul doesn't need to spend all of his time chasing down our lovely selves (you know he's calling us names in his head.
+Fill out your timecard every day cuz the guv'ment's watching and because poor Paul doesn't need to spend all of his time chasing down our lovely selves (you know he's calling us names in his head).
 
 [Find your So Company timecard.](https://storij.tsheets.com/page/login)
 
 If you're working with Ad Hoc, you'll also need to fill out their time cards every day. It's a little tricky: You must first sign out of Tsheets for So Company, and then make sure you've changed the url and actually clicked through to the Ad Hoc page before resigning in to their Tsheets page. 
 
 [Find your Ad Hoc timecard.](https://adhoc.tsheets.com/page/login)
+
+## Pay stubs
+
+So company uses Gusto for paystubs, tax information and benefit information--such as how much vacation time you have. This is also where you'll make any changes to your tax documents, such as how many exemptions you withhold for taxes.
+
+[Check your pay amount, vacation days and tax documents](https://app.gusto.com/login).
 
 ## Healthcare:
 
