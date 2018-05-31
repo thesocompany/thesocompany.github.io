@@ -46,7 +46,7 @@ However, you still must complete the TMS trainings again, as well as fill in a n
 
 ## They'll ask for your TMS account/Project information
 
-So we're giving to you right here:
+So we're giving it to you right here:
 
 VA Location : VACO
 
