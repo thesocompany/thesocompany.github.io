@@ -31,6 +31,7 @@ To start the PIV process, please reach out to Neal Sherwood (neal@adhocteam.us /
      - If you are a man born after December 31, 1959, you will need to provide your selective services registration number.  
 
 [Verify your selective service registration number, if necessary](www.sss.gov/Registration/Check-a-Registration/Verification-Form).
+
 7. **Make an appointment to get your PIV card**. After the guv'ment completes your eQUIP, VA will confirm PIV sponsorship. You can then make an appointment to get your PIV card at the same office as you got your fingerprints taken. It may take up to 3 weeks to receive PIV confirmation after submitting the eQIP. Watch for an automated email with “Form 0771” in the subject line. As soon as you receive this email, you are good to pick up your card at any PIV office. Please notify Neal if you have not received any updates after three weeks.
      - Please note that you will still need to pick up your physical card from the VA office of your choice. 
      - Some offices accept walk-ins, others require appointments. It’s best to call your office directly.
