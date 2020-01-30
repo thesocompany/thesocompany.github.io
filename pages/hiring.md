@@ -7,6 +7,5 @@ permalink: /hiring/
 <div class="row">
 <div class="small-12 medium-11 medium-centered columns" markdown="1">
 
-- [Sr. Digital Content Strategist](/hiring/sr-digital-content-strategist/)
-- [Sr. Digital Content Writer](/hiring/sr-digital-content-writer/)
+- [Consultant: Design and Usability Researcher](https://boards.greenhouse.io/thesocompany/jobs/4633410002?gh_src=57568c262)
 
